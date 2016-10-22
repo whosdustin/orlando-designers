@@ -1,0 +1,19 @@
+.section--primary {
+	background: $brand-color-primary;
+	h1, h2, p {
+		color: $white;
+	}
+	h4 {
+		color: $brand-color-secondary;
+	}
+}
+
+.section--secondary {
+	background: $brand-color-secondary;
+	h1, h2, p {
+		color: $white;
+	}
+	h4 {
+		color: $brand-color-primary;
+	}
+}

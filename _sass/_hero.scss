@@ -1,0 +1,28 @@
+.hero {
+	padding: 40px 0;
+	@media (min-width: 768px) {
+		padding: 140px 0;
+	}
+}
+
+.hero__badge {
+	align-self: center;
+	width: 40%;
+	margin: 0 auto;
+	@media (min-width: 768px) {
+		margin: 0;
+	}
+}
+
+.hero__content {
+	align-self: center;
+	width: 100%;
+	text-align: center;
+	@media (min-width: 768px) {
+		width: 50%;
+		text-align: left;
+	}
+	h1 {
+		margin-top: 0;
+	}
+}
