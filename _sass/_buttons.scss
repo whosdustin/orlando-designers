@@ -19,4 +19,9 @@
 		background: $white;
 		color: $brand-color-primary;
 	}
+
+	&__link {
+		text-decoration: underline;
+		text-transform: capitalize;
+	}
 }
