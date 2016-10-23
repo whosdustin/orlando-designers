@@ -24,6 +24,21 @@ url: "http://example.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
+collections:
+  events:
+    title: Events
+    output: true
+    permalink: "/events/:path/"
+
+defaults:
+- scope:
+    path: ''
+    type: events
+  values:
+    layout: events
+    startdate: ''
+    enddate: ''
+
 # Build settings
 markdown: kramdown
 permalink: /:title/

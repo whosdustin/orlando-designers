@@ -1,6 +1,6 @@
 .section--primary {
 	background: $brand-color-primary;
-	h1, h2 {
+	h1, h2, h3 {
 		color: $white;
 	}
 	p, li {
@@ -13,7 +13,7 @@
 
 .section--secondary {
 	background: $brand-color-secondary;
-	h1, h2 {
+	h1, h2, h3 {
 		color: $white;
 	}
 	p, li {
@@ -35,6 +35,6 @@
 .brand__header {
 	display: inline-block;
 	width: 100px;
-	margin: 20px 20px 0 0;
+	margin: 30px 20px 0 0;
 	opacity: 0.8;
 }

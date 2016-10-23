@@ -19,6 +19,14 @@
 			color: $brand-color-primary;
 		}
 	}
+	&--secondary {
+		background: $brand-color-primary;
+		color: $white;
+		&:hover {
+			background: $white;
+			color: $brand-color-primary;
+		}
+	}
 	&__link {
 		text-decoration: underline;
 		text-transform: capitalize;
