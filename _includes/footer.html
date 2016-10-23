@@ -1,8 +1,8 @@
-<footer class="section--secondary">
-	<div class="">
-		<p>
-			<a href="#"><img src="" alt="" /></a>
-			Made with love in Orlando, Fl
-		</p>
-	</div>
+<footer class="{% if page.title == "Code of Conduct" %}section--primary{% else %}section--secondary{% endif %}">
+	<a href="{{ site.baseurl }}/" class="brand__footer">
+		{% include lgo-odesigners-small.svg %}
+	</a>
+	<p>
+		Made with love in Orlando, Fl
+	</p>
 </footer>

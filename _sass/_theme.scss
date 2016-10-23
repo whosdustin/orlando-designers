@@ -1,7 +1,10 @@
 .section--primary {
 	background: $brand-color-primary;
-	h1, h2, p {
+	h1, h2 {
 		color: $white;
+	}
+	p, li {
+		color: rgba($white, 0.8);
 	}
 	h4 {
 		color: $brand-color-secondary;
@@ -10,10 +13,28 @@
 
 .section--secondary {
 	background: $brand-color-secondary;
-	h1, h2, p {
+	h1, h2 {
 		color: $white;
+	}
+	p, li {
+		color: rgba($white, 0.8);
 	}
 	h4 {
 		color: $brand-color-primary;
 	}
+}
+
+.brand__footer {
+	display: inline-block;
+	width: 80px;
+	margin-right: 20px;
+	align-self: center;
+	opacity: 0.8;
+}
+
+.brand__header {
+	display: inline-block;
+	width: 100px;
+	margin: 20px 20px 0 0;
+	opacity: 0.8;
 }
