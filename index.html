@@ -78,7 +78,14 @@ title: Home
 			{% endif %}
 			<div class="{{ layout }}">
 				<h3 class="with__lead">{{ event.title }}</h3>
-				<h4>{{ event.start_date | date: "%b %-d, %Y" }}</h4>
+				<h4>
+					{% if event.end_date != nil %}
+						{{ event.start_date | date: "%b %-d"}}-
+						{{ event.end_date | date: "%-d %Y" }}
+					{% else %}
+						{{ event.start_date | date: "%b %-d, %Y" }}
+					{% endif%}
+				</h4>
 				<p>
 					{{ event.content | truncatewords: 14}}
 				</p>
