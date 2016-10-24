@@ -69,8 +69,14 @@ title: Home
 	<div class="main__wrapper">
 		<h2>Upcoming Events in <nobr>O-Town</nobr></h2>
 		{% assign event_count = site.events | size %}
-		{% for event in site.events %}
-			<div class="{% if event_count <= 2 %}l__half{% else %}l__third{% endif %}">
+
+		{% for event in site.events limit: 6 %}
+			{% if event_count == '1' or '2' or '4'%}
+				{% assign layout = 'l__half' %}
+			{% else %}
+				{% assign layout = 'l__third' %}
+			{% endif %}
+			<div class="{{ layout }}">
 				<h3 class="with__lead">{{ event.title }}</h3>
 				<h4>{{ event.startdate | date: "%b %-d, %Y" }}</h4>
 				<p>
