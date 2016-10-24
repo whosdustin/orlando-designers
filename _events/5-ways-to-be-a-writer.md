@@ -1,6 +1,6 @@
 ---
 title: 5 Ways to be a writer
-startdate: 2016-10-27 00:00:00 Z
+start_date: 2016-10-27 00:00:00 Z
 link: http://orlando.aiga.org/event/5-ways-to-be-a-writer/
 ---
 

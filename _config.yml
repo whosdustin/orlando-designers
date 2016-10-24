@@ -36,8 +36,9 @@ defaults:
     type: events
   values:
     layout: events
-    startdate: ''
-    enddate: ''
+    start_date: ''
+    end_date: ''
+    link: ''
 
 # Build settings
 markdown: kramdown

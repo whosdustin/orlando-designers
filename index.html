@@ -78,7 +78,7 @@ title: Home
 			{% endif %}
 			<div class="{{ layout }}">
 				<h3 class="with__lead">{{ event.title }}</h3>
-				<h4>{{ event.startdate | date: "%b %-d, %Y" }}</h4>
+				<h4>{{ event.start_date | date: "%b %-d, %Y" }}</h4>
 				<p>
 					{{ event.content | truncatewords: 14}}
 				</p>
