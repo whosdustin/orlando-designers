@@ -79,7 +79,7 @@ layout: default
 			<div class="{{ layout }}">
 				<h3 class="with__lead">{{ event.title }}</h3>
 				<h4>
-					{% if event.end_date != nil %}
+					{% if event.end_date == nil %}
 						{{ event.start_date | date: "%b %-d"}}-
 						{{ event.end_date | date: "%-d %Y" }}
 					{% else %}
