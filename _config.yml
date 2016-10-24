@@ -22,12 +22,11 @@ defaults:
     end_date: ''
     link: ''
 email: dustin@delatore.me
-description: 'Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+description: 'Orlando Designers Slack is a place for designers who live or work in
+  Orlando to chat and support each other.
 
 '
-baseurl: ''
+baseurl: 
 url: http://example.com
 markdown: kramdown
 permalink: "/:title/"
