@@ -1,9 +1,25 @@
 form {
 	display: flex;
 }
+
 .form__input {
 	display: inline-block;
 	padding: 15px 30px;
 	margin: 10px 10px 10px 0;
 	border: none;
+	&--secondary {
+		background: lighten($brand-color-secondary, 65%);
+		&:focus {
+			outline: $brand-color-secondary;
+		}
+	}
+	&--full {
+		width: 100%;
+	}
+}
+
+.form__group {
+	display: flex;
+	position: relative;
+	width: 100%;
 }

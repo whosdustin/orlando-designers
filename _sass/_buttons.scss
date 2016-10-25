@@ -28,6 +28,12 @@
 			color: $brand-color-primary;
 		}
 	}
+	&--inline {
+		position: absolute;
+		right: 10px;
+		top: 0;
+		padding: 10px 15px;
+	}
 	&__link {
 		text-decoration: underline;
 		text-transform: capitalize;
