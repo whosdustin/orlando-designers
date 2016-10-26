@@ -106,13 +106,18 @@ layout: default
 				</p>
 				<address itemprop="location" itemscope itemtype="http://schema.org/Place">
 					At:
-					<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-						{% if event.location != '' %}
-							{{event.location}}
-						{% else %}
+					<span itemprop="name">
+						{% if event.location_name != '' %}
+							{{event.location_name }}
+							{% else %}
 							TBD
 						{% endif %}
 					</span>
+					{% if event.address != '' %}
+					<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+						{{event.address}}
+					</span>
+					{% endif %}
 				</address>
 				<a href="{{ event.link }}" itemprop="mainEntityOfPage url" class="button button--secondary">More Information</a>
 			</div>
