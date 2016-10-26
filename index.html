@@ -115,11 +115,15 @@ layout: default
 							TBD
 						{% endif %}
 					</span>
-					{% if event.address != '' %}
+
 					<span itemprop="address">
-						{{event.address}}
+						{% if event.address != '' %}
+							{{event.address}}
+						{% else %}
+							<span style="with__cloak">TBD</span>
+						{% endif %}
 					</span>
-					{% endif %}
+
 				</address>
 				<a href="{{ event.link }}" itemprop="mainEntityOfPage url" class="button button--secondary">More Information</a>
 			</div>
