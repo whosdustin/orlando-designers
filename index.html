@@ -104,9 +104,9 @@ layout: default
 				<p itemprop="description">
 					{{ event.content | truncatewords: 14}}
 				</p>
-				<address>
+				<address itemprop="location" itemscope itemtype="http://schema.org/Place">
 					At:
-					<span itemprop="location">
+					<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
 						{% if event.location != '' %}
 							{{event.location}}
 						{% else %}
