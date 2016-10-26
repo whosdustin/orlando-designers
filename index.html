@@ -101,9 +101,11 @@ layout: default
 							{{ event.start_date | date: "%B %-d, %Y" }}</time>
 					{% endunless %}
 				</h4>
-				<p itemprop="description">
-					{{ event.content | truncatewords: 14}}
-				</p>
+				<div itemprop="description">
+					<p>
+						{{ event.content | truncatewords: 14}}
+					</p>
+				</div>
 				<address itemprop="location" itemscope itemtype="http://schema.org/Place">
 					At:
 					<span itemprop="name">
