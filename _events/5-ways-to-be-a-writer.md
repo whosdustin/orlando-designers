@@ -7,4 +7,4 @@ address: 3203 Lawton Road Orlando, FL 32803
 link: http://orlando.aiga.org/event/5-ways-to-be-a-writer/
 ---
 
-At 5 Ways to Be a Writer, you'll meet five different people putting their words to work. From ad agency up-and-comers to in-house marketing experts and lifelong freelancers, each writer has a unique story.
+At 5 Ways to Be a Writer, you'll meet five different people putting their words to work.
