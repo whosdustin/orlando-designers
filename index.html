@@ -76,29 +76,37 @@ layout: default
 <section class="section--secondary">
 	<div class="main__wrapper">
 		<h2>Upcoming Events in <nobr>O-Town</nobr></h2>
-		{% assign event_count = site.events | size %}
 
-		{% for event in site.events limit: 6 %}
-			{% if event_count == '1' or '2' or '4'%}
-				{% assign layout = 'l__half' %}
-			{% else %}
-				{% assign layout = 'l__third' %}
-			{% endif %}
-			<div class="{{ layout }}" itemscope itemtype="http://schema.org/Event">
+		{% assign event_count = site.events | size %}
+		{% assign sorted_events = site.events | sort: 'start_date' %}
+
+		{% for event in sorted_events limit: 6 %}
+
+		{% capture nowunix %}{{ 'now' | date: '%s'}}{% endcapture %}
+		{% capture eventtime %}{{ event.start_date | date: '%s'}}{% endcapture%}
+
+			{% if eventtime > nowunix %}
+			<div class="l__half" itemscope itemtype="http://schema.org/Event">
 				<h3 class="with__lead" itemprop="name">{{ event.title }}</h3>
 				<h4>
-					{% if event.end_date == nil %}
-						<time datetime="{{event.start_date}}" itemprop="startDate">{{ event.start_date | date: "%B %-d"}}</time>-
-						<time datetime="{{event.end_date}}" itemprop="endDate">{{ event.end_date | date: "%-d %Y" }}</time>
+					{% assign endday = event.end_date | date: '%F' %}
+					{% assign startday = event.start_date | date: '%F' %}
+					{% unless endday == '' or endday == startday %}
+						<time datetime="{{event.start_date}}" itemprop="startDate">
+							{{ event.start_date | date: "%B %-d"}}</time>-
+						<time datetime="{{event.end_date}}" itemprop="endDate">
+							{{ event.end_date | date: "%-d %Y" }}</time>
 					{% else %}
-						<time datetime="{{event.start_date}}" itemprop="startDate">{{ event.start_date | date: "%B %-d, %Y" }}</time>
-					{% endif%}
+						<time datetime="{{event.start_date}}" itemprop="startDate">
+							{{ event.start_date | date: "%B %-d, %Y" }}</time>
+					{% endunless %}
 				</h4>
 				<p>
 					{{ event.content | truncatewords: 14}}
 				</p>
 				<a href="{{ event.link }}" itemprop="mainEntityOfPage" class="button button--secondary">More Information</a>
 			</div>
+			{% endif %}
 		{% endfor %}
 	</div>
 </section>
