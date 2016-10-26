@@ -8,4 +8,4 @@ address: '618 E South St #620 Orlando, Florida 32801'
 link: https://www.eventbrite.com/e/make-day-a-day-of-co-creating-solutions-tickets-27761272714
 ---
 
-Two exciting workshops that will encourage diverse teams to push the limits of their creativity, resourcefulness, and efficiency for the purpose of creating solutions to help women and girls to achieve their goals in software and technology.
+Two workshops that will encourage diverse teams to push the limits of their creativity, to help women and girls achieve their goals in software and technology.
