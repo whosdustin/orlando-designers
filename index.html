@@ -115,7 +115,7 @@ layout: default
 							TBD
 						{% endif %}
 					</span>
-
+					{% if event.location_name != '' and event.address != '' %}||{% endif %}
 					<span itemprop="address">
 						{% if event.address != '' %}
 							{{event.address}}
