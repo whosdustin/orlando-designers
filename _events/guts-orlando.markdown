@@ -2,6 +2,8 @@
 title: GUTS Orlando
 date: 2016-10-24 13:12:00 Z
 start_date: 2016-10-29 14:00:00 Z
+location_name: Milk District
+address: 2424-2423 E Robinson St Orlando, FL 32803
 link: http://gutsorlando.com/
 ---
 
