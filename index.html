@@ -107,7 +107,7 @@ layout: default
 				<address>
 					At:
 					<span itemprop="location">
-						{% if event.location %}
+						{% if event.location != '' %}
 							{{event.location}}
 						{% else %}
 							TBD

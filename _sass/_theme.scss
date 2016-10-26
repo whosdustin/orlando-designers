@@ -6,6 +6,9 @@
 	p, li {
 		color: rgba($white, 0.8);
 	}
+	address {
+		color: rgba($white, 0.5);
+	}
 	h4 {
 		color: $brand-color-secondary;
 	}
@@ -16,9 +19,13 @@
 	h1, h2, h3 {
 		color: $white;
 	}
-	p, li {
+	p, li, address {
 		color: rgba($white, 0.8);
 	}
+	address {
+		color: rgba($white, 0.5);
+	}
+
 	h4 {
 		color: $brand-color-primary;
 	}
