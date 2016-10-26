@@ -20,15 +20,15 @@ defaults:
     layout: events
     start_date: ''
     end_date: ''
-    address: ''
     location_name: ''
+    address: ''
     link: ''
 email: dustin@delatore.me
 description: 'Orlando Designers Slack is a place for designers who live or work in
   Orlando to chat and support each other.
 
 '
-baseurl: 
+baseurl:
 url: http://example.com
 markdown: kramdown
 permalink: "/:title/"
