@@ -101,10 +101,20 @@ layout: default
 							{{ event.start_date | date: "%B %-d, %Y" }}</time>
 					{% endunless %}
 				</h4>
-				<p>
+				<p itemprop="description">
 					{{ event.content | truncatewords: 14}}
 				</p>
-				<a href="{{ event.link }}" itemprop="mainEntityOfPage" class="button button--secondary">More Information</a>
+				<address>
+					At:
+					<span itemprop="location">
+						{% if event.location %}
+							{{event.location}}
+						{% else %}
+							TBD
+						{% endif %}
+					</span>
+				</address>
+				<a href="{{ event.link }}" itemprop="mainEntityOfPage url" class="button button--secondary">More Information</a>
 			</div>
 			{% endif %}
 		{% endfor %}
