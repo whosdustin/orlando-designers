@@ -1,5 +1,5 @@
 ---
-title: Community Meeting
+title: AIGA Community Meeting
 date: 2016-10-31 10:21:00 -04:00
 start_date: 2016-11-01 18:30:00 -04:00
 end_date: 2016-11-01 21:30:00 -04:00
