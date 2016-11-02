@@ -139,10 +139,12 @@ layout: default
 		<h2>Meetups That We Dig</h2>
 
 		{% for meetup in site.meetups %}
+			{% unless meetup.published = false %}
 			<div class="l__half">
 				<h3><a href="{{meetup.link}}">{{meetup.title}}</a></h3>
 				<p>{{meetup.content}}</p>
 			</div>
+			{% endunless %}
 		{% endfor %}
 
 	</div>
