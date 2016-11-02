@@ -77,15 +77,15 @@ layout: default
 	<div class="main__wrapper">
 		<h2>Upcoming Events in <nobr>O-Town</nobr></h2>
 
-		{% assign event_count = site.events | size %}
 		{% assign sorted_events = site.events | sort: 'start_date' %}
-
+		{% assign event_count = 0 %}
 		{% for event in sorted_events limit: 6 %}
 
 		{% capture nowunix %}{{ 'now' | date: '%s'}}{% endcapture %}
-		{% capture eventtime %}{{ event.start_date | date: '%s'}}{% endcapture%}
+		{% capture eventtime %}{{ event.start_date | date: '%s'}}{% endcapture %}
 
 			{% if eventtime > nowunix %}
+			{% increment event_count %}
 			<div class="l__half" itemscope itemtype="http://schema.org/Event">
 				<h3 class="with__lead" itemprop="name">{{ event.title }}</h3>
 				<h4>
@@ -128,37 +128,29 @@ layout: default
 				<a href="{{ event.link }}" itemprop="mainEntityOfPage url" class="button button--secondary">More Information</a>
 			</div>
 			{% endif %}
+
 		{% endfor %}
+		{% if event_count == 0 %}
+			<div class="l__half">
+				<h3 class="with__lead">Whoops! No Events?</h3>
+				<h4>It seems no events have been announced.</h4>
+				<p>Hopefully this won't last long. Check back soon or keep hitting refresh.</p>
+			</div>
+		{% endif %}
 	</div>
 </section>
 
 <section>
 	<div class="main__wrapper">
 		<h2>Meetups That We Dig</h2>
-		<div class="l__half">
-			<h3><a href="https://www.meetup.com/Downtown-UX-Meetup/">DUX: Downtown UX</a></h3>
-			<p>
-				Their mission is to create opportunities for anyone to learn, discuss, and share knowledge about the field of user experience.
-			</p>
-		</div>
-		<div class="l__half">
-			<h3><a href="https://www.meetup.com/Orlando-Tech/">Orlando Tech</a></h3>
-			<p>
-				Orlando Tech is a community-built organization that connects, promotes and fosters the growth of technology companies in Orlando.
-			</p>
-		</div>
-		<div class="l__half">
-			<h3><a href="https://www.meetup.com/Design-Orlando/">Design Orlando</a></h3>
-			<p>
-				Design discussions on the second Tuesday of every month. Many of the topics will be focused around the web, but we are open to discussing any type of design.
-			</p>
-		</div>
-		<div class="l__half">
-			<h3><a href="https://www.meetup.com/Design-with-a-Purpose/">Design With a Purpose</a></h3>
-			<p>
-				Design With a Purpose brings designers, developers, and marketers from all fields together to discuss their creative process.
-			</p>
-		</div>
+
+		{% for meetup in site.meetups %}
+			<div class="l__half">
+				<h3><a href="{{meetup.link}}">{{meetup.title}}</a></h3>
+				<p>{{meetup.content}}</p>
+			</div>
+		{% endfor %}
+
 	</div>
 </section>
 
