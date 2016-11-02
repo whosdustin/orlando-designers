@@ -85,7 +85,7 @@ layout: default
 		{% capture eventtime %}{{ event.start_date | date: '%s'}}{% endcapture %}
 
 			{% if eventtime > nowunix %}
-			{% increment event_count %}
+			
 			<div class="l__half" itemscope itemtype="http://schema.org/Event">
 				<h3 class="with__lead" itemprop="name">{{ event.title }}</h3>
 				<h4>
@@ -130,13 +130,7 @@ layout: default
 			{% endif %}
 
 		{% endfor %}
-		{% if event_count == 0 %}
-			<div class="l__half">
-				<h3 class="with__lead">Whoops! No Events?</h3>
-				<h4>It seems no events have been announced.</h4>
-				<p>Hopefully this won't last long. Check back soon or keep hitting refresh.</p>
-			</div>
-		{% endif %}
+		
 	</div>
 </section>
 
