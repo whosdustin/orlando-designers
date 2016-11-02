@@ -4,7 +4,7 @@ timezone: America/New_York
 collections:
   events:
     title: Events
-    output: false
+    output: true
     permalink: "/events/:path/"
   meetups:
     title: Meetups
