@@ -12,4 +12,4 @@ address: 101 S. Garland Ave, Orlando, FL
 link: https://www.meetup.com/UX-Orlando/events/234794819/
 ---
 
-Every first Monday of the month, join fellow user experience professionals and those who want to learn more about user experience, design, and usability! 
+Every first Monday of the month, join fellow user experience professionals and those who want to learn more about user experience, design, and usability. If you are involved in the design of mobile apps, websites, or any interactive environment, you should be here!
