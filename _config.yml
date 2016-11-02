@@ -6,6 +6,9 @@ collections:
     title: Events
     output: false
     permalink: "/events/:path/"
+  meetups:
+    title: Meetups
+    output: true
   posts:
     title: Posts
     output: true
