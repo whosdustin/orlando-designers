@@ -86,47 +86,26 @@ layout: default
 			{% if eventtime > nowunix %}
 				{% capture event_count %}{% increment x %}{% endcapture %}
 
-			<div class="l__half" itemscope itemtype="http://schema.org/Event">
-				<h3 class="with__lead" itemprop="name">{{ event.title }}</h3>
-				<h4>
-					{% assign endday = event.end_date | date: '%F' %}
-					{% assign startday = event.start_date | date: '%F' %}
-					{% unless endday == '' or endday == startday %}
-						<time datetime="{{event.start_date}}" itemprop="startDate">
-							{{ event.start_date | date: "%B %-d"}}</time>-
-						<time datetime="{{event.end_date}}" itemprop="endDate">
-							{{ event.end_date | date: "%-d %Y" }}</time>
-					{% else %}
-						<time datetime="{{event.start_date}}" itemprop="startDate">
-							{{ event.start_date | date: "%B %-d, %Y" }}</time>
-					{% endunless %}
-				</h4>
-				<div itemprop="description">
-					<p>
-						{{ event.content }}
-					</p>
-				</div>
-				<address itemprop="location" itemscope itemtype="http://schema.org/Place">
-					At:
-					<span itemprop="name">
-						{% if event.location_name != '' %}
-							{{event.location_name }}
-							{% else %}
-							TBD
-						{% endif %}
-					</span>
-					{% if event.location_name != '' and event.address != '' %}||{% endif %}
-					<span itemprop="address">
-						{% if event.address != '' %}
-							{{event.address}}
+				<div class="l__half">
+					<h3 class="with__lead" itemprop="name">{{ event.title }}</h3>
+					<h4>
+						{% assign endday = event.end_date | date: '%F' %}
+						{% assign startday = event.start_date | date: '%F' %}
+						{% unless endday == '' or endday == startday %}
+							<time datetime="{{event.start_date}}">
+								{{ event.start_date | date: "%B %-d"}}</time>-
+							<time datetime="{{event.end_date}}">
+								{{ event.end_date | date: "%-d %Y" }}</time>
 						{% else %}
-							<span class="with__cloak">TBD</span>
-						{% endif %}
-					</span>
-
-				</address>
-				<a href="{{ event.link }}" itemprop="mainEntityOfPage url" class="button button--secondary">More Information</a>
-			</div>
+							<time datetime="{{event.start_date}}">
+								{{ event.start_date | date: "%B %-d, %Y" }}</time>
+						{% endunless %}
+					</h4>
+						<p>
+							{{ event.content }}
+						</p>
+					<a href="{{ event.url }}" class="button button--secondary">More Information</a>
+				</div>
 			{% endif %}
 
 		{% endfor %}
@@ -140,6 +119,7 @@ layout: default
 				</p>
 			</div>
 		{% endif %}
+
 	</div>
 </section>
 

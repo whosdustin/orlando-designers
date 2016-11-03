@@ -1,2 +1,55 @@
-<h1>Events</h1>
-{{ content }}
+---
+layout: page
+---
+
+<section class="section--secondary">
+	<div class="main__wrapper" itemscope itemtype="http://schema.org/Event">
+		<h1 itemprop="name">{{ page.title }}</h1>
+		<div class="l__half">
+			<div itemprop="description">
+				<p>
+					{{ content }}
+				</p>
+			</div>
+			<a href="{{page.link}}" class="button button--secondary" itemprop="mainEntityOfPage url">Event Page &nbsp;&#10095;</a>
+		</div>
+		<div class="l__half">
+			<h3 class="with__lead">
+				{% assign endday = page.end_date | date: '%F' %}
+				{% assign startday = page.start_date | date: '%F' %}
+				{% unless endday.empty? or endday == startday %}
+					<time datetime="{{page.start_date}}" itemprop="startDate">
+						{{ page.start_date | date: "%B %-d"}}</time>-
+					<time datetime="{{page.end_date}}" itemprop="endDate">
+						{{ page.end_date | date: "%-d %Y" }}</time>
+				{% else %}
+					<time datetime="{{page.start_date}}" itemprop="startDate">
+						{{ page.start_date | date: "%B %-d, %Y" }}</time>
+				{% endunless %}
+			</h3>
+			<p>
+				{{ page.start_date | date: '%I:%M %p' }} - {{ page.end_date | date: '%I:%M %p' }}
+			</p>
+			<div itemprop="location" itemscope itemtype="http://schema.org/Place">
+				<h3 itemprop="name">
+					{% unless page.location_name.empty? %}
+							{{page.location_name }}
+						{% else %}
+							TBD
+					{% endunless %}
+				</h3>
+				<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+					<p>
+						{% unless page.address.empty? %}
+							<span>{{page.address}}</span>
+							<span>(<a href="http://maps.google.com/?q={{page.address}}" target="_blank">map</a>)</span>
+						{% else %}
+							<span class="with__cloak">TBD</span>
+						{% endunless %}
+					</p>
+				</div>
+
+			</div>
+		</div>
+	</div>
+</section>
