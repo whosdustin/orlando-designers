@@ -78,14 +78,14 @@ layout: default
 		<h2>Upcoming Events in <nobr>O-Town</nobr></h2>
 
 		{% assign sorted_events = site.events | sort: 'start_date' %}
-		{% assign event_count = 0 %}
 		{% for event in sorted_events limit: 6 %}
 
 		{% capture nowunix %}{{ 'now' | date: '%s'}}{% endcapture %}
 		{% capture eventtime %}{{ event.start_date | date: '%s'}}{% endcapture %}
 
 			{% if eventtime > nowunix %}
-			
+				{% capture event_count %}{% increment x %}{% endcapture %}
+
 			<div class="l__half" itemscope itemtype="http://schema.org/Event">
 				<h3 class="with__lead" itemprop="name">{{ event.title }}</h3>
 				<h4>
@@ -130,7 +130,16 @@ layout: default
 			{% endif %}
 
 		{% endfor %}
-		
+
+		{% if event_count == nil %}
+			<div class="l__half">
+				<h3 class="with__lead">Oh no! No events?</h3>
+				<h4>It appears no events have been announced.</h4>
+				<p>
+					Check back later to see if anything comes up or have faith and keep hitting refresh.
+				</p>
+			</div>
+		{% endif %}
 	</div>
 </section>
 
