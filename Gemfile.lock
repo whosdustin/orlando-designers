@@ -135,10 +135,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll (= 3.2.1)
-  minima
-
-RUBY VERSION
-   ruby 2.2.2p95
+  jekyll-redirect-from
 
 BUNDLED WITH
    1.12.5
