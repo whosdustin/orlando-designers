@@ -78,7 +78,7 @@ layout: default
 		<h2>Upcoming Events in <nobr>O-Town</nobr></h2>
 
 		{% assign sorted_events = site.events | sort: 'start_date' %}
-		{% for event in sorted_events limit: 6 %}
+		{% for event in sorted_events %}
 
 		{% capture nowunix %}{{ 'now' | date: '%s'}}{% endcapture %}
 		{% capture eventtime %}{{ event.start_date | date: '%s'}}{% endcapture %}
