@@ -8,4 +8,4 @@ address: '101 S Garland Ave #300 Orlando, FL 32801, Orlando, FL'
 link: https://www.meetup.com/Downtown-UX-Meetup/events/235355650/
 ---
 
- Come and join in as our panel discusses the unique challenges to designing in virtual reality and the state of the industry.
+Come and join in as our panel discusses the unique challenges to designing in virtual reality and the state of the industry.
