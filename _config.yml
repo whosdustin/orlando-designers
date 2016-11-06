@@ -4,7 +4,7 @@ timezone: America/New_York
 collections:
   authors:
     title: Authors
-    output: true
+    output: false
   events:
     title: Events
     output: true
