@@ -2,6 +2,7 @@
 title: First Post
 date: 2016-11-04 19:29:00 -04:00
 image: "/uploads/peach-coachella.png"
+author: Dustin Delatore
 ---
 
 Nulla vitae elit libero, a pharetra augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
