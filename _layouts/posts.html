@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include header.html %}	
+{% include header.html %}
 
 <section>
 	<article class="post__wrapper">
@@ -10,4 +10,26 @@ layout: default
 		<h4>{{ page.date | date: '%B %-d, %Y' }}</h4>
 		{{content}}
 	</article>
+</section>
+
+<section class="section--primary">
+	<div class="main__wrapper">
+		<h2 class="with__lead">About the Author</h2>
+		{% for author in site.authors %}
+			{% if page.author == author.title %}
+			<div class="media">
+				<div class="media__body">
+					<h4>{{ author.title }}</h4>
+					<p>
+						{{ author.content }}
+					</p>
+					<a href="{{ author.website }}" class="button button--primary">Website &nbsp;&#10095;</a>
+				</div>
+				<div class="media__image media__image--circle">
+					<img src="{{ author.image | prepend: site.baseurl }}" alt="{{ author.title }}" />
+				</div>
+			</div>
+			{% endif %}
+		{% endfor %}
+	</div>
 </section>

@@ -6,6 +6,11 @@ body {
 	background: #fff;
 }
 
+img {
+	max-width: 100%;
+	height: auto;
+}
+
 h1,
 h2 {
 	width: 100%;
@@ -36,6 +41,13 @@ h4 {
 a {
 	position: relative;
 	color: $brand-color-primary;
+}
+
+hr {
+	height: 1px;
+	width: 100%;
+	margin: 20px 0;
+	background: rgba($brand-color-secondary, 0.6);
 }
 
 .link--invert {

@@ -1,0 +1,19 @@
+.media {
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: center;
+}
+
+.media__image {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 26%;
+	margin-left: 4%;
+	&--circle {
+		img {
+			display: block;
+			border-radius: 50%;
+		}
+	}
+}
