@@ -1,19 +1,34 @@
 .media {
 	display: flex;
-	flex-flow: row nowrap;
+	flex-flow: column-reverse;
 	justify-content: center;
+	align-items: center;
+	text-align: center;
+	@media (min-width: 768px) {
+		flex-flow: row wrap;
+		justify-content: space-between;
+		text-align: left;
+	}
 }
 
 .media__image {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	width: 26%;
-	margin-left: 4%;
+	width: 40%;
+	margin: 20px auto;
 	&--circle {
 		img {
 			display: block;
 			border-radius: 50%;
 		}
+	}
+	@media (min-width: 768px) {
+		width: 20%;
+		margin: 0;
+	}
+}
+
+.media__body {
+	width: 100%;
+	@media (min-width: 768px) {
+		width: 68%;
 	}
 }

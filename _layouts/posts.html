@@ -5,20 +5,22 @@ layout: default
 {% include header.html %}
 
 <section>
-	<article class="post__wrapper">
+	<div class="post__wrapper">
 		<h1 class="with__lead">{{page.title}}</h1>
 		<h4>{{ page.date | date: '%B %-d, %Y' }}</h4>
-		{{content}}
-	</article>
+		<article class="">
+			{{content}}
+		</article>
+	</div>
 </section>
 
 <section class="section--primary">
 	<div class="main__wrapper">
-		<h2 class="with__lead">About the Author</h2>
 		{% for author in site.authors %}
 			{% if page.author == author.title %}
 			<div class="media">
 				<div class="media__body">
+					<h2 class="with__lead">About the Author</h2>
 					<h4>{{ author.title }}</h4>
 					<p>
 						{{ author.content }}
