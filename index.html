@@ -25,6 +25,15 @@ layout: default
 
 <section>
 	<div class="main__wrapper">
+		{% for post in site.posts %}
+			<h2><a href="{{ post.url }}">{{post.title}}</a></h2>
+
+		{% endfor %}
+	</div>
+</section>
+
+<section>
+	<div class="main__wrapper">
 		<h2>A Few of Our Slack Channels</h2>
 		<div class="l__half">
 			<h3><a href="https://orlandodesigners.slack.com/messages/intros/">#intros</a></h3>

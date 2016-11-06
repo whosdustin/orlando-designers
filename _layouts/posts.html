@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+{% include header.html %}	
+
+<section>
+	<article class="post__wrapper">
+		<h1 class="with__lead">{{page.title}}</h1>
+		<h4>{{ page.date | date: '%B %-d, %Y' }}</h4>
+		{{content}}
+	</article>
+</section>

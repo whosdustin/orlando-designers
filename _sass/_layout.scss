@@ -30,6 +30,24 @@
 	}
 }
 
+.post__wrapper {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-between;
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 4%;
+	@media (min-width 768px) {
+		padding: 0;
+	}
+}
+
+.center__wrapper {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
 .l__half {
 	@media (min-width: 768px) {
 		width: 45%;

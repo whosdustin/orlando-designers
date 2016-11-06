@@ -1,5 +1,8 @@
 .hero {
 	padding: 40px 0;
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
 	@media (min-width: 768px) {
 		padding: 140px 0;
 	}
@@ -29,4 +32,9 @@
 	h1 {
 		margin-top: 0;
 	}
+}
+
+.hero__title {
+	margin: 0;
+	font-size: 6em;
 }

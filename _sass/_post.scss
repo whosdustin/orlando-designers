@@ -1,0 +1,16 @@
+.post__hero {
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	max-width: 60vw;
+	height: 60vh;
+	z-index: -1;
+	// @media (min-width: 768px) {
+		// padding: 140px 0;
+	// }
+}
+
+.post__image {
+	// display: block;
+	margin-left: 10%;
+}

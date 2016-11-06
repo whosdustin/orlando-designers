@@ -6,10 +6,12 @@
 			{{ content }}
 		</main>
 
-		{% include footer.html %}
 
-		<script src="//cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.5.13/clipboard.min.js">
-		</script>
+		{% unless page.title == "404" %}
+			{% include footer.html %}
+		{% endunless %}
+
+		<script src="//cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.5.13/clipboard.min.js"></script>
 		<script src="{{ "/js/main.js" | prepend: site.baseurl }}"></script>
 	</body>
 </html>
