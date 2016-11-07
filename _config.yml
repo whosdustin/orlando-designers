@@ -24,7 +24,6 @@ defaults:
     type: posts
   values:
     layout: posts
-    perlink: "/:category/:path/"
 - scope:
     path: ''
     type: events
@@ -45,10 +44,10 @@ description: 'Orlando Designers Slack is a place for designers who live or work 
   Orlando to chat and support each other.
 
 '
-baseurl: 
+baseurl:
 url: https://orlandodesigners.info
 markdown: kramdown
-permalink: "/:path/"
+permalink: "/:category/:title/"
 gems:
 - jekyll-sitemap
 - jekyll-redirect-from
