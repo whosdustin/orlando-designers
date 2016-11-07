@@ -24,7 +24,7 @@ defaults:
     type: posts
   values:
     layout: posts
-    perlink: "/:category/:title/"
+    perlink: "/:category/:path/"
 - scope:
     path: ''
     type: events
