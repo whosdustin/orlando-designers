@@ -45,7 +45,7 @@ description: 'Orlando Designers Slack is a place for designers who live or work 
   Orlando to chat and support each other.
 
 '
-baseurl:
+baseurl: 
 url: https://orlandodesigners.info
 markdown: kramdown
 permalink: "/:categories/:title/"
