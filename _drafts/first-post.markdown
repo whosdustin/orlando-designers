@@ -1,8 +1,8 @@
 ---
-title: First Post
+title: Tyler Fortune
 date: 2016-11-04 19:29:00 -04:00
 categories:
-- inteview
+- spotlight
 image: "/uploads/peach-coachella.png"
 author: Dustin Delatore
 ---
