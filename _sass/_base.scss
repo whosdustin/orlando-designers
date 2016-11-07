@@ -43,6 +43,15 @@ a {
 	color: $brand-color-primary;
 }
 
+blockquote {
+	margin: 0;
+	padding: 0 40px;
+	border-left: solid 4px $brand-color-primary;
+	font-style: italic;
+	font-family: $font-family-primary;
+	color: rgba($font-color-base, 0.8);
+}
+
 hr {
 	height: 1px;
 	width: 100%;

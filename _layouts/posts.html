@@ -4,34 +4,36 @@ layout: default
 
 {% include header.html %}
 
-<section>
-	<div class="post__wrapper">
-		<h1 class="with__lead">{{page.title}}</h1>
-		<h4>{{ page.date | date: '%B %-d, %Y' }}</h4>
-		<article class="">
-			{{content}}
-		</article>
-	</div>
-</section>
+<div itemscope itemtype="http://schema.org/Article">
+	<section>
+		<div class="post__wrapper" >
+			<h1 class="with__lead" itemprop="name">{{page.title}}</h1>
+			<h4><time datetime="{{page.date}}" itemprop="dateCreated">{{ page.date | date: '%B %-d, %Y' }}</time></h4>
+			<article itemprop="articleBody">
+				{{content}}
+			</article>
+		</div>
+	</section>
 
-<section class="section--primary">
-	<div class="main__wrapper">
-		{% for author in site.authors %}
-			{% if page.author == author.title %}
-			<div class="media">
-				<div class="media__body">
-					<h2 class="with__lead">About the Author</h2>
-					<h4>{{ author.title }}</h4>
-					<p>
-						{{ author.content }}
-					</p>
-					<a href="{{ author.website }}" class="button button--primary">Website &nbsp;&#10095;</a>
+	<section class="section--primary">
+		<div class="main__wrapper">
+			{% for author in site.authors %}
+				{% if page.author == author.title %}
+				<div class="media" itemscope itemtype="http://schema.org/Person">
+					<div class="media__body">
+						<h2 class="with__lead">About the Author</h2>
+						<h4 itemprop="name author">{{ author.title }}</h4>
+						<p itemprop="description">
+							{{ author.content }}
+						</p>
+						<a href="{{ author.website }}" itemprop="url" class="button button--primary">Website &nbsp;&#10095;</a>
+					</div>
+					<div class="media__image media__image--circle">
+						<img itemprop="image" src="{{ author.image | prepend: site.baseurl }}" alt="{{ author.title }}" />
+					</div>
 				</div>
-				<div class="media__image media__image--circle">
-					<img src="{{ author.image | prepend: site.baseurl }}" alt="{{ author.title }}" />
-				</div>
-			</div>
-			{% endif %}
-		{% endfor %}
-	</div>
-</section>
+				{% endif %}
+			{% endfor %}
+		</div>
+	</section>
+</div>
