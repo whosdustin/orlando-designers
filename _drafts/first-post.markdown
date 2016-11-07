@@ -3,7 +3,7 @@ title: Tyler Fortune
 date: 2016-11-04 19:29:00 -04:00
 categories:
 - spotlight
-image: "/uploads/peach-coachella.png"
+image: "/uploads/TklrC0MR.png"
 author: Dustin Delatore
 ---
 
@@ -11,7 +11,7 @@ Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut ferm
 
 **What's your Slack username?**
 
-[@whodustin](https://orlandodesigners.slack.com/messages/@whosdustin/)
+[@tylerfortune8](https://orlandodesigners.slack.com/messages/@tylerfortune8/)
 
 **Where else can you be found?**
 
