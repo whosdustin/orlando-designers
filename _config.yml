@@ -48,7 +48,7 @@ description: 'Orlando Designers Slack is a place for designers who live or work 
 baseurl:
 url: https://orlandodesigners.info
 markdown: kramdown
-permalink: pretty
+permalink: "/:path/"
 gems:
 - jekyll-sitemap
 - jekyll-redirect-from
