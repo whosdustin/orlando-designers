@@ -24,6 +24,7 @@ defaults:
     type: posts
   values:
     layout: posts
+    perlink: "/:category/:title/"
 - scope:
     path: ''
     type: events
@@ -47,7 +48,6 @@ description: 'Orlando Designers Slack is a place for designers who live or work 
 baseurl:
 url: http://example.com
 markdown: kramdown
-permalink: pretty
 gems:
 - jekyll-sitemap
 - jekyll-redirect-from
