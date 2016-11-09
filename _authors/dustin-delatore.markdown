@@ -5,4 +5,4 @@ image: "/uploads/600_446954290.jpeg"
 website: https://whosdustin.com
 ---
 
-Dustin is a unique beast. Though he finds himself in the design community, his full-time job is a Ui developer. He states "Development pays this bills, design pays the mind".
+Dustin is a full-time developer, part-time starving artist, amateur traveler, and a semi-professional doodler. Though Dustin stares a lines of code daily he appreciates the beauty and prosperity design provides to the world.
