@@ -5,4 +5,4 @@ image: "/uploads/600_446954290.jpeg"
 website: https://whosdustin.com
 ---
 
-Dustin is a full-time developer, part-time starving artist, amateur traveler, and a semi-professional doodler. Though Dustin stares a lines of code daily he appreciates the beauty and prosperity design provides to the world.
+Dustin is a full-time developer, part-time starving artist, amateur traveler, and a semi-professional doodler. Though Dustin stares at lines of code daily, he appreciates the beauty and prosperity design provides to the world.
