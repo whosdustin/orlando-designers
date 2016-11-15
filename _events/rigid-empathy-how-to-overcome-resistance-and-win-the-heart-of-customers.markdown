@@ -1,5 +1,5 @@
 ---
-title: 'Rigid Empathy: How to overcome resistance and win the heart of customers'
+title: 'Rigid Empathy: How To Overcome Resistance And Win The Heart Of Customers'
 date: 2016-11-15 18:31:00 -05:00
 start_date: 2016-12-01 18:30:00 -05:00
 end_date: 2016-12-01 21:00:00 -05:00
