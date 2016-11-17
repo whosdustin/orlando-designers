@@ -8,7 +8,8 @@ layout: page
 		<ul>
 			{% for job in site.jobs %}
 				<li itemscope itemtype="http://schema.org/JobPosting">
-					<a href="{{job.listing_url}}">{{job.title}}</a>
+					<h2><a href="{{job.listing_url}}">{{job.title}}</a></h2>
+					{{job.company}} • {{job.jobtype}}
 				</li>
 			{% endfor %}
 		</ul>
