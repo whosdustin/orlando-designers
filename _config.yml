@@ -7,7 +7,7 @@ collections:
     output: false
   duration:
     title: Duration
-    output: true
+    output: false
   events:
     title: Events
     output: true
