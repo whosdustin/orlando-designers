@@ -45,12 +45,20 @@ defaults:
     type: meetups
   values:
     link: ''
+- scope:
+    path: ''
+    type: jobs
+  values:
+    jobtype: ''
+    company_name: ''
+    listing_url: ''
+    location: ''
 email: dustin@delatore.me
 description: 'Orlando Designers Slack is a place for designers who live or work in
   Orlando to chat and support each other.
 
 '
-baseurl: 
+baseurl:
 url: https://orlandodesigners.info
 markdown: kramdown
 permalink: "/:categories/:title/"
