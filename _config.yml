@@ -5,13 +5,13 @@ collections:
   authors:
     title: Authors
     output: false
-  duration:
-    title: Duration
-    output: false
   events:
     title: Events
     output: true
     permalink: "/events/:path/"
+  duration:
+    title: JobType
+    output: false
   jobs:
     title: Jobs
     output: true
