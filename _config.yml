@@ -9,6 +9,9 @@ collections:
     title: Events
     output: true
     permalink: "/events/:path/"
+  jobs:
+    title: Jobs
+    output: true
   meetups:
     title: Meetups
     output: true
