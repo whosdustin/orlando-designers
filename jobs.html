@@ -1,0 +1,16 @@
+---
+layout: page
+title: Jobs
+---
+
+<section>
+	<div class="main__wrapper">
+		<ul>
+			{% for job in site.jobs %}
+				<li itemscope itemtype="http://schema.org/JobPosting">
+					<a href="{{job.listing_url}}">{{job.title}}</a>
+				</li>
+			{% endfor %}
+		</ul>
+	</div>
+</section>
