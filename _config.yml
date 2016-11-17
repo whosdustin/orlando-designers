@@ -5,6 +5,9 @@ collections:
   authors:
     title: Authors
     output: false
+  duration:
+    title: Duration
+    output: true
   events:
     title: Events
     output: true
