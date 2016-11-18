@@ -16,10 +16,10 @@ layout:
       {% unless job.published == false %}
 			<item>
         <title>{{ job.title | xml_escape }}</title>
-        <description>At {{ job.company_name | xml_escape }} • {{ job.jobtype | xml_escape }}</description>
+        <description>{{ job.company_name | xml_escape }} • {{ job.jobtype | xml_escape }}</description>
         <pubDate>{{ job.date | date_to_rfc822 }}</pubDate>
-        <link>{{ "/jobs/" | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ job.listing_url }}</guid>
+        <link>{{ job.listing_url }}</link>
+        <guid>{% increment x %}</guid>
       </item>
 			{% endunless %}
     {% endfor %}
