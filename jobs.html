@@ -5,13 +5,32 @@ layout: page
 
 <section>
 	<div class="main__wrapper">
-		<ul>
-			{% for job in site.jobs %}
-				<li itemscope itemtype="http://schema.org/JobPosting">
-					<h2><a href="{{job.listing_url}}">{{job.title}}</a></h2>
-					{{job.company}} • {{job.jobtype}}
-				</li>
-			{% endfor %}
-		</ul>
+		<h2>Jobs for Orlando Designers</h2>
+			<div>
+				<ul class="menu">
+					{% for job in site.jobs %}
+						{% unless job.published == false %}
+							{% capture job_count %}{% increment x %}{% endcapture %}
+							<li class="menu__item" itemscope itemtype="http://schema.org/JobPosting">
+								<meta itemprop="title" content="{{ job.title }}">
+								<meta itemprop="hiringOrganization" content="{{ job.company_name }}">
+								<meta itemprop="datePosted" content="{{ job.date }}">
+								<meta itemprop="jobLocation" content="{{ job.location }}">
+								<h3 class="with__lead"><a href="{{job.listing_url}}">{{job.title}}</a> @ {{ job.company_name }}</h3>
+								<span>{{ job.location }} • {{job.jobtype}}</span>
+							</li>
+						{% endunless %}
+					{% endfor %}
+				</ul>
+			</div>
+
+			{% if job_count == nil %}
+			<div>
+				<h3 class="with__lead">No Jobs Available</h3>
+				<p>
+					If you're hiring please <a href="{{site.baseurl}}/post-a-job/">fill out our form</a>.
+				</p>
+			</div>
+			{% endif %}
 	</div>
 </section>

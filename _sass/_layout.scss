@@ -1,10 +1,6 @@
-// .main__container {
-// 	display: flex;
-// 	flex-flow: row wrap;
-// 	justify-content: space-around;
-// 	// max-width: 1600px;
-// 	margin: 0 auto;
-// }
+.main__container {
+	min-height: 88vh;
+}
 
 .main__wrapper {
 	display: flex;
@@ -25,6 +21,11 @@
 	max-width: 1600px;
 	margin: 0 auto;
 	padding: 0 4%;
+	nav {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
 	@media (min-width 768px) {
 		padding: 0;
 	}

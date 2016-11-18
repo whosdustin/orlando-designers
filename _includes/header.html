@@ -1,7 +1,12 @@
-<header class="section--secondary">
+<header class="section--secondary" role="header">
 	<div class="header__wrapper">
 		<a href="{{ site.baseurl }}/" class="brand__header">
 			{% include lgo-odesigners-small.svg %}
 		</a>
+		<nav>
+			{% if page.title == 'Jobs' %}
+				<a class="button button--secondary" href="{{site.baseurl}}/post-a-job/">Post a Job</a>
+			{% endif %}
+		</nav>
 	</div>
 </header>
