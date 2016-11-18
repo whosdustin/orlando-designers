@@ -1,10 +1,10 @@
 ---
-title: The Job Title
+title: Ui Designer
 date: 2016-11-17 16:16:00 -05:00
 published: false
-jobtype: Full Time
-company_name: Company Name
-listing_url: listingurl.com
+jobtype: Freelance
+company_name: Gnarlacious
+listing_url: http://gnarlacious.com/
 location: Orlando
 ---
 
