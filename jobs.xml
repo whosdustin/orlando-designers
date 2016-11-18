@@ -1,0 +1,27 @@
+---
+layout:
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ site.title | xml_escape }}</title>
+    <description>{{ site.description | xml_escape }}</description>
+    <link>{{ site.url }}{{ site.baseurl }}/</link>
+    <atom:link href="{{ "/jobs.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <generator>Jekyll v{{ jekyll.version }}</generator>
+    {% for job in site.jobs limit:10 %}
+      {% unless job.published == false %}
+			<item>
+        <title>{{ job.title | xml_escape }}</title>
+        <description>At {{ job.company_name | xml_escape }} • {{ job.jobtype | xml_escape }}</description>
+        <pubDate>{{ job.date | date_to_rfc822 }}</pubDate>
+        <link>{{ "/jobs/" | prepend: site.baseurl | prepend: site.url }}</link>
+        <guid isPermaLink="true">{{ job.listing_url }}</guid>
+      </item>
+			{% endunless %}
+    {% endfor %}
+  </channel>
+</rss>
