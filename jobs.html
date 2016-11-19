@@ -6,23 +6,29 @@ layout: page
 <section>
 	<div class="main__wrapper">
 		<h2>Jobs for Orlando Designers</h2>
-			<div>
-				<ul class="menu">
-					{% for job in site.jobs %}
-						{% unless job.published == false %}
-							{% capture job_count %}{% increment x %}{% endcapture %}
-							<li class="menu__item" itemscope itemtype="http://schema.org/JobPosting">
-								<meta itemprop="title" content="{{ job.title }}">
-								<meta itemprop="hiringOrganization" content="{{ job.company_name }}">
-								<meta itemprop="datePosted" content="{{ job.date }}">
-								<meta itemprop="jobLocation" content="{{ job.location }}">
-								<h3 class="with__lead"><a href="{{job.listing_url}}">{{job.title}}</a> @ {{ job.company_name }}</h3>
-								<span>{{ job.location }} • {{job.jobtype}}</span>
-							</li>
-						{% endunless %}
-					{% endfor %}
-				</ul>
-			</div>
+		<div class="l__half">
+			<p>
+				For those who want a design career in the Orlando area. The job board is carefully curated and requested by the very people in our community.
+			</p>
+		</div>
+
+		<div class="l__row">
+			<ul class="menu">
+				{% for job in site.jobs %}
+					{% unless job.published == false %}
+						{% capture job_count %}{% increment x %}{% endcapture %}
+						<li class="menu__item" itemscope itemtype="http://schema.org/JobPosting">
+							<meta itemprop="title" content="{{ job.title }}">
+							<meta itemprop="hiringOrganization" content="{{ job.company_name }}">
+							<meta itemprop="datePosted" content="{{ job.date }}">
+							<meta itemprop="jobLocation" content="{{ job.location }}">
+							<h3 class="with__lead"><a href="{{job.listing_url}}">{{job.title}}</a> @ {{ job.company_name }}</h3>
+							<span>{{ job.location }} • {{job.jobtype}}</span>
+						</li>
+					{% endunless %}
+				{% endfor %}
+			</ul>
+		</div>
 
 			{% if job_count == nil %}
 			<div>

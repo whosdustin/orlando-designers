@@ -49,6 +49,10 @@
 	align-items: center;
 }
 
+.l__row {
+	width: 100%;
+}
+
 .l__half {
 	@media (min-width: 768px) {
 		width: 45%;

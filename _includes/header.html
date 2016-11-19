@@ -1,12 +1,23 @@
-<header class="section--secondary" role="header">
+{% if page.title == 'Home' %}
+	{% assign type = 'primary' %}
+	{% else %}
+	{% assign type = 'secondary' %}
+{% endif %}
+
+<header class="section--{{type}}" role="banner">
 	<div class="header__wrapper">
 		<a href="{{ site.baseurl }}/" class="brand__header">
+			<span class="sr-only">Orlando Designers</span>
+		{% unless page.title == 'Home' %}
 			{% include lgo-odesigners-small.svg %}
+		{% endunless %}
 		</a>
 		<nav>
-			{% if page.title == 'Jobs' %}
+			{% unless page.title == 'Jobs' %}
+				<a class="button link--invert" href="{{ site.baseurl }}/jobs/">Jobs</a>
+			{% else %}
 				<a class="button button--secondary" href="{{site.baseurl}}/post-a-job/">Post a Job</a>
-			{% endif %}
+			{% endunless %}
 		</nav>
 	</div>
 </header>
