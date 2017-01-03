@@ -1,5 +1,5 @@
 ---
-title: January Dribbble Orlando Meetup
+title: Dribbble Orlando Meetup
 date: 2017-01-03 16:12:00 -05:00
 categories:
 - meetup
