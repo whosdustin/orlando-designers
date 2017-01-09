@@ -8,4 +8,4 @@ address: 101 Garland Avenue Orlando, FL 32801
 link: http://orlando.aiga.org/event/november-2016-community-meeting/
 ---
 
-There's no better way to see what's going on in the Orlando creative community, get involved, and participate in shaping the chapter's growth.
+Connect with local creatives as we spend this month celebrating the impact of storytelling. This community meeting is interactive and everyone is welcome to attend.
