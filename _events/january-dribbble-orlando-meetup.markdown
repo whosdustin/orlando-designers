@@ -5,11 +5,11 @@ categories:
 - meetup
 tags:
 - dribbblemeetup orlando
-start_date: 2017-02-23 18:30:00 -05:00
-end_date: 2017-02-23 20:30:00 -05:00
-location_name: Big Vision
-address: '189 S Orange Ave #1120, Orlando, FL 32801'
-link: https://nvite.com/DribbbleOrlando/d856
+start_date: 2017-03-29 18:30:00 -04:00
+end_date: 2017-03-29 20:30:00 -04:00
+location_name: PRPL HQ
+address: 189 South Orange Avenue, Suite 2020 Orlando, Florida 32801
+link: https://nvite.com/DribbbleOrlando/efb8
 ---
 
-Join us Thursday, February 23rd @ 6:30PM and learn about SVG Animations with Nick Walsh at Big Vision!
+Join us **Wednesday, March 29th @ 6:30PM** and learn how to win at UI design and be the envy of your peers with Devin Jacoviello, Designer at PRPL!
