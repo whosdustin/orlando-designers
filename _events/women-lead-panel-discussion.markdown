@@ -1,5 +1,5 @@
 ---
-title: Women Lead Panel Discussion
+title: 'We Can Make Anything: An Evening with Randy J. Hunt'
 start_date: 2017-04-10 18:30:00 -04:00
 end_date: 2017-04-10 21:30:00 -04:00
 location_name: Big Vision
