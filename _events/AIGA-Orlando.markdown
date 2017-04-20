@@ -1,15 +1,12 @@
 ---
-title: 'We Can Make Anything: An Evening with Randy J. Hunt'
-published: false
-start_date: 2017-04-10 18:30:00 -04:00
-end_date: 2017-04-10 21:30:00 -04:00
-location_name: Big Vision
-address: 189 S Orange Ave, Orlando, FL 32801
-link: http://orlando.aiga.org/event/we-can-make-anything-an-evening-with-randy-j-hunt/
+title: SPOT Showcase 2017
+start_date: 2017-04-22 18:00:00 -04:00
+end_date: 2017-04-22 21:00:00 -04:00
+location_name: Feeding Children Everywhere
+address: 830 South Ronald Reagan Blvd. Longwood, FL 32750
+link: http://orlando.aiga.org/event/spot-showcase-2017/
 ---
 
-Join us Monday, April 10 for an evening with Randy Hunt, VP of Design at Etsy and UCF graphic design class of 2005!
+AIGA Orlando's annual SPOT event is back!
 
-We can make anything. What will we make?
-
-We’re a creative species. It’s what has kept us alive and allowed us to invent some pretty amazing things. We’ve also created a pretty complex world with complex demands. The need for design – especially design that emphasizes the humane – is unprecedented. Setting his perspective in historical and contemporary contexts, Etsy's VP Design Randy J. Hunt will look at the modern designer’s opportunity and responsibility.
+This is the capstone exhibition for our 2017 Mentorship Program. Over the past 6 months, design students from around the city have worked closely with local professionals to create a self promotional project. Join us for the showcase of their diligence and talent. Plus, be inspired by our keynote speaker for the evening, Mike Jones. La Empanada will also be there selling food during the event! All ticket sale proceeds will be donated to Feeding Children Everywhere.
