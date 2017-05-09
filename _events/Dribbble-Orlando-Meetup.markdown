@@ -5,11 +5,11 @@ categories:
 - meetup
 tags:
 - dribbblemeetup orlando
-start_date: 2017-04-26 18:30:00 -04:00
-end_date: 2017-04-26 20:30:00 -04:00
-location_name: Credo Conduit
-address: 1001 N Orange Ave, Orlando, FL 32801
-link: https://nvite.com/DribbbleOrlando/73nldj
+start_date: 2017-05-22 18:30:00 -04:00
+end_date: 2017-05-22 20:30:00 -04:00
+location_name: Big Vision
+address: '189 S Orange Ave #1120, Orlando, FL 32801'
+link: https://nvite.com/DribbbleOrlando/6qvl69
 ---
 
-Join us **Wednesday, April 26th @ 6:30PM** to learn how to make a killer poster that rocks with Schiani Ledo, Graphic Designer and Illustrator!
+Join us **Monday, May 22nd @ 6:30PM** and learn how to get started with Adobe After Effects and jump into vector animation with Cory Martin, Motion Graphics Designer at Digital Brew!
