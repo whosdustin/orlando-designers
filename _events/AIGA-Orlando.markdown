@@ -1,5 +1,5 @@
 ---
-title: Monthly Community Meeting
+title: AIGA Monthly Community Meeting
 start_date: 2017-06-06 18:30:00 -04:00
 end_date: 2017-06-06 21:30:00 -04:00
 location_name: The Iron Yard
