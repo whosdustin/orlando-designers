@@ -1,16 +1,22 @@
 ---
-title: 3 Pillars of Product
-start_date: 2017-05-17 19:00:00 -04:00
-end_date: 2017-05-17 21:00:00 -04:00
+title: Diving into UX
+start_date: 2017-06-20 19:00:00 -04:00
+end_date: 2017-06-20 20:30:00 -04:00
 location_name: PowerDMS
 address: '101 S Garland Ave #300 Orlando, FL 32801, Orlando, FL'
-link: https://www.meetup.com/Downtown-UX-Meetup/events/239727312/
+link: https://www.meetup.com/Downtown-UX-Meetup/events/240277854/
 ---
 
-The desirability of users is typically what people focus on when you hear “UX”. But is that the whole picture? What if we took more into consideration? 
+Are you a professional wanting to launch your career in UX?
 
-Feasibility, Viability and Desirability work together to formulate all successful products. Let’s talk about the formula and how to leverage it to build out your own product. 
+Join us on June 20th to learn how you can get into UX. Jenae Ramos, one of the DUX co-organizers, will share her story. Get some tips and ask your biggest questions. 
 
-**Jean Kaluza** will be presenting on the 3 Pillars of Product, giving us a larger perspective in developing products. 
+We hope to see you then! 
 
-In addition to this presentation we will also be announcing the next big program for the Downtown UX Meetup and what our agenda for the coming months will focus on.
+6:30 pm - Show up early to connect with other UXers, eat pizza and socialize 
+
+7:00 to 8:30 pm - The Meetup: 3 Pillars of Product
+
+8:45 pm - The "Social UX Meetup" begins over at Tap & Grind for anyone who wishes to join in more casual conversation.
+
+Food and beverages, as always, are provided by our friends at TEK Systems. 
