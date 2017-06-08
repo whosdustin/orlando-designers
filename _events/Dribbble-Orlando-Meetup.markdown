@@ -5,11 +5,21 @@ categories:
 - meetup
 tags:
 - dribbblemeetup orlando
-start_date: 2017-05-22 18:30:00 -04:00
-end_date: 2017-05-22 20:30:00 -04:00
-location_name: Big Vision
-address: '189 S Orange Ave #1120, Orlando, FL 32801'
-link: https://nvite.com/DribbbleOrlando/6qvl69
+start_date: 2017-06-24 09:30:00 -04:00
+end_date: 2017-06-24 13:00:00 -04:00
+location_name: Full Sail University - EB Center
+address: 3300 University Blvd, Winter Park, FL
+link: http://www.orlandoix.com/design
 ---
 
-Join us **Monday, May 22nd @ 6:30PM** and learn how to get started with Adobe After Effects and jump into vector animation with Cory Martin, Motion Graphics Designer at Digital Brew!
+**Join Dribbble Orlando and OrlandoiX on Saturday, June 24th at Full Sail University for the OrlandoiX 2017 T-Shirt Design Challenge**
+
+The winning design will be on the official t-shirt of Orlando’s largest event celebrating digital innovation, creativity, networking, tech startups, gaming and so much more.
+
+**Winning t-shirt design receives $500 prize**
+
+Designers at all-levels welcomed. Participants are welcome to bring their computers and work on their 2017 OrlandoiX t-shirt designs onsite.
+
+Refreshments and Dribbble swag provided.
+
+Don’t forget to sign up on the link below and learn more about what’s happening at the conference!
