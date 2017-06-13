@@ -1,12 +1,12 @@
 ---
-title: AIGA Monthly Community Meeting
-start_date: 2017-06-06 18:30:00 -04:00
-end_date: 2017-06-06 21:30:00 -04:00
-location_name: The Iron Yard
-address: 101 Garland Avenue, Orlando, FL 32801
-link: http://orlando.aiga.org/event/june-2017-community-meeting/
+title: CMYK Happy Hour
+start_date: 2017-06-16 18:30:00 -04:00
+end_date: 2017-06-16 21:30:00 -04:00
+location_name: Player 1 Video Game Bar
+address: 8562 Palm Parkway, Orlando, FL 32836
+link: http://orlando.aiga.org/event/cmyk-happy-hour-2/
 ---
 
-The Orlando creative community is what we make of it, and together we're making it thrive. Join us Tuesday, June 6 at The Iron Yard to celebrate the conclusion of another amazing programming year. TEKsystems will be providing pizza and beer, so let's party! 
+Come Meet Your Kind (CMYK) and enjoy RGB (Really Good Beer) while challenging new friends to some 8-bit action. **Join us at Player 1 Video Game Bar on Friday, June 16th at 6:30pm.** This bar is 21 and up. The cover charge is $5 per person, but the first 25 people to arrive will get in free!
 
-Everyone is invited—AIGA members, non-members, designers, non-designers, and beyond. If you have a desire to see our community grow and flourish then we urge you to join us. Whether you're new to the area, new to AIGA, ready to get involved or just curious about what's going on in the Orlando creative community, this monthly meeting is a great place to be.
+Plus one lucky person will win a Wacom Intuos Pro tablet. You must be present to win, so don’t miss out!
