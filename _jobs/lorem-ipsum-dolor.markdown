@@ -1,8 +1,7 @@
 ---
 title: Lorem ipsum dolor
-listing_url: http://example-url.com
 company_name: Lorem ipsum dolor
-jobtype: Barcelona
+listing_url: http://example-url.com
 location: Lorem ipsum dolor
 ---
 
