@@ -5,21 +5,17 @@ categories:
 - meetup
 tags:
 - dribbblemeetup orlando
-start_date: 2017-06-24 09:30:00 -04:00
-end_date: 2017-06-24 13:00:00 -04:00
-location_name: Full Sail University - EB Center
-address: 3300 University Blvd, Winter Park, FL
-link: http://www.orlandoix.com/design
+start_date: 2017-08-03 18:30:00 -04:00
+end_date: 2017-08-03 20:30:00 -04:00
+location_name: Credo Conduit
+address: 1001 N Orange Ave, Orlando, FL 32801
+link: https://nvite.com/DribbbleOrlando/vr34qx
 ---
 
-**Join Dribbble Orlando and OrlandoiX on Saturday, June 24th at Full Sail University for the OrlandoiX 2017 T-Shirt Design Challenge**
+**Join us Thursday, August 3rd @ 6:30PM** and learn how to get started with designing and preparing your files for making your own lapel pins with **Hillary and Cristian.** 
 
-The winning design will be on the official t-shirt of Orlando’s largest event celebrating digital innovation, creativity, networking, tech startups, gaming and so much more.
+Hillary is a freelance Illustrator, winner of the Best in Show award at the 2017 AIGA Orlando SPOT Showcase. Cristian freelances as a designer who has previously worked with UCF Athletics and Orlando City Soccer. They both bring their experience producing lapel pins, coins, and patches for a local company to this talk.
 
-**Winning t-shirt design receives $500 prize**
+**CREDO Conduit** is a curated cross-disciplinary co-working space focused on convening Central Florida’s creative class to cultivate a network of meaning, impact and community.
 
-Designers at all-levels welcomed. Participants are welcome to bring their computers and work on their 2017 OrlandoiX t-shirt designs onsite.
-
-Refreshments and Dribbble swag provided.
-
-Don’t forget to sign up on the link below and learn more about what’s happening at the conference!
+Refreshments will be provided. Courtesy of our friends at **TEKSystems**
