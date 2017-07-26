@@ -1,10 +1,16 @@
 ---
-title: Join Our All Volunteer Team
-start_date: 2017-06-26 18:30:00 -04:00
-end_date: 2017-07-10 23:59:00 -04:00
-link: http://orlando.aiga.org/join-our-all-volunteer-team/
+title: August 2017 Community Meeting
+start_date: 2017-08-01 18:30:00 -04:00
+end_date: 2017-08-01 21:30:00 -04:00
+location_name: The Iron Yard
+address: |-
+  101 Garland Avenue
+  Orlando, FL 32801
+link: http://orlando.aiga.org/event/august-2017-community-meeting/
 ---
 
-Are you interested in playing an active role in the design community? Do you enjoy being a part of AIGA, and want to play a bigger role in Orlando’s chapter? Join the AIGA Orlando board!
+All are invited to our monthly Community Meetings—AIGA members, non-members, designers, non-designers, and beyond. There's no better way to see what's going on in the Orlando creative community, get involved, and participate in shaping the chapter's growth. 
 
-Our chapter’s programming year runs from August 2017 to June 2018 and there are exciting plans in the works for it. However, to make even greater things happen for our community we need the help of talented individuals like you, from a variety of backgrounds and disciplines.
+This is our chapter, it is what we make of it. 
+
+***While this event is free, please register (with Eventbrite) so we can notify you of any changes to this event. Thank you!*****
