@@ -9,10 +9,6 @@ link: http://orlando.aiga.org/event/september-2017-community-meeting/
 
 All are invited to our Monthly Community Meetings—AIGA members, non-members, designers, non-designers, and beyond. There's no better way to see what's going on in the Orlando creative community, get involved, and participate in shaping the chapter's growth. See you then!
 
-**This month we are focusing on Process and Techniques.**
-
-Brian Nutt is an Art Director at IDEAS and a freelance Illustrator, Designer, and Letterer. During this month’s Community Meeting, Brian will share his creative process and top 5 underused techniques in Adobe Illustrator. Regardless of skill level in the software, this talk will surely improve your workflow, add a few tricks to your arsenal, and inspire you to keep illustrating. 
-
 **This is our chapter, it is what we make of it. **
 
 NOTE! We are at a new location this month at Credo Conduit!
