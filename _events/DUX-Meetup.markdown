@@ -7,6 +7,6 @@ address: '101 S Garland Ave #300 Orlando, FL 32801, Orlando, FL'
 link: http://www.downtownux.com/#/dux-day-2017/
 ---
 
-DUX Day is an all day mini-conference. Last year's theme was mastering prototyping tools. This year we will be diving deeper into the practices that can help us master our craft. Learn from experts in the community as they dive into the practices that distinguish their work and help them excel in their UX practice.
+**DUX Day** is an all day mini-conference. Last year's theme was mastering prototyping tools. This year we will be diving deeper into the practices that can help us master our craft. Learn from experts in the community as they dive into the practices that distinguish their work and help them excel in their UX practice.
 
 Tickets are only $25 and 100% goes directly to Codecraft Foundation (learn more). This is our opportunity to connect, learn from each other, and give back to our community all at the same time. The included coffee and lunch make it a no brainier. Looking forward to seeing you there!
