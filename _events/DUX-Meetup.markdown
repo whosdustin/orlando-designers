@@ -7,6 +7,4 @@ address: '101 S Garland Ave #300 Orlando, FL 32801, Orlando, FL'
 link: http://www.downtownux.com/#/dux-day-2017/
 ---
 
-Ethics is an interesting topic when it comes to most careers, but especially in the world of UX Design. Persuasive design, accessibility, addictive patterns, and even just the types of products we make can often play in gray territories. 
-
-Gus Hernandez, Tommy Hung, and Matt Lavoie will come together to discuss these topics and many others as we open this discussion about Ethics and UX in our community.
+**DUX Day** is an all day mini-conference. Last year's theme was mastering prototyping tools. This year we will be diving deeper into the practices that can help us master our craft. Learn from experts in the community as they dive into the practices that distinguish their work and help them excel in their UX practice.
