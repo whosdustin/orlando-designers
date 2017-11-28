@@ -1,12 +1,15 @@
 ---
-title: DUX Day 2017
-start_date: 2017-09-09 09:00:00 -04:00
-end_date: 2017-09-09 17:00:00 -04:00
+title: 'DUX Meetup: Conversational Design'
+start_date: 2017-11-28 19:00:00 -05:00
+end_date: 2017-11-28 20:30:00 -05:00
 location_name: PowerDMS and The Iron Yard
 address: '101 S Garland Ave #300 Orlando, FL 32801, Orlando, FL'
-link: http://www.downtownux.com/#/dux-day-2017/
+link: https://www.meetup.com/Downtown-UX-Meetup/events/244999762/
 ---
 
-**DUX Day** is an all day mini-conference. Last year's theme was mastering prototyping tools. This year we will be diving deeper into the practices that can help us master our craft. Learn from experts in the community as they dive into the practices that distinguish their work and help them excel in their UX practice.
 
-Tickets are only $25 and 100% goes directly to Codecraft Foundation (learn more). This is our opportunity to connect, learn from each other, and give back to our community all at the same time. The included coffee and lunch make it a no brainier. Looking forward to seeing you there!
+With the rise of voice interfaces and conversational chat bots, the need to make them more human-centered is essential. So let's have a conversation about conversational design.
+
+Arun George, Orrett Davis, Sam Artioli will be talking about conversational design in the context of voice interactions and chatbots.
+
+Food and beverages, as always, are provided by our friends at TEK Systems.
