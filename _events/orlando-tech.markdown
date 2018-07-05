@@ -1,13 +1,15 @@
 ---
-title: September Orlando Tech Meetup
+title: 'Orlando Tech: Momentum 2018'
 date: 2017-06-30 13:06:00 -04:00
-start_date: 2017-09-12 18:00:00 -04:00
-end_date: 2017-09-12 21:00:00 -04:00
-location_name: Church Street Exchange
-address: 101 South Garland Avenue, Orlando, FL
-link: https://www.meetup.com/Orlando-Tech/events/242520175/
+start_date: 2018-07-09 18:00:00 -04:00
+end_date: 2018-07-09 21:00:00 -04:00
+location_name: National Entrepreneur Center
+address: 3201 East Colonial (Fashion Square Mall) · Orlando, FL
+link: https://www.meetup.com/Orlando-Tech/events/249313384/
 ---
 
-**Central Florida & Our New Space Frontier**
+JULY 9, 6PM - Launch Night
+hosted by the Central Florida Disability Chamber
+at the National Entrepreneur Center
 
-Our September program will highlight innovation and imagination in two thriving clusters in Central Florida's technology ecosystem. We'll take a look at the current state of space technology and exploration. We'll also look at the intersection of this historically important sector intersects with the rise of gaming and game development in Central Florida. 
+MOMENTUM is a program of civic problem solving, bringing together creative thinkers (this means you!) from Orlando's non-profit, business, and tech communities to work together over the span of two weeks with a laser-focused goal of creating break-through, high-impact solutions for community organizations that are making a difference in Orlando today.
