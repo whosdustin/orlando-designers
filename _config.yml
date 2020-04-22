@@ -65,3 +65,7 @@ permalink: "/:categories/:title/"
 gems:
 - jekyll-sitemap
 - jekyll-redirect-from
+open graph:
+  og:image: "/uploads/social-card.png"
+  og:image:width: 1200
+  og:image:height: 630
