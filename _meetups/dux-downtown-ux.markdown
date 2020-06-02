@@ -1,5 +1,5 @@
 ---
-title: 'DUX: Downtown UX'
+title: 'DOUX: Downtown UX'
 date: 2016-11-02 09:30:00 -04:00
 link: https://www.meetup.com/Downtown-UX-Meetup/
 ---
