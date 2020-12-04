@@ -1,6 +1,7 @@
 ---
 title: Tyler Fortune
 date: 2016-11-04 19:29:00 -04:00
+permalink: orlandodesigners.info/spotlight/tyler-fortune/
 categories:
 - spotlight
 image: "/uploads/TklrC0MR.png"
