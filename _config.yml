@@ -14,7 +14,7 @@ collections:
     output: false
   jobs:
     title: Jobs
-    output: false
+    output: true
   meetups:
     title: Meetups
     output: true
