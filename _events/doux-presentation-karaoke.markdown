@@ -8,6 +8,7 @@ start_date: 2020-12-15 19:30:00 -05:00
 end_date: 2020-12-15 21:00:00 -05:00
 location_name: Online
 link: https://www.meetup.com/Downtown-Orlando-UX/events/274952419/
+layout: events
 ---
 
 This has quickly become a tradition, so for the third year in the row lets celebrate the end of the year with another round of Presentation Karaoke!
