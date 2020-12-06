@@ -6,7 +6,7 @@ position: 0
 jobtype: Freelance
 company_name: Disruptive Studio
 listing_url: https://orlandodesigners.info/jobs/mid-senior-freelance-designer
-layout: default
+layout: events
 ---
 
 At [Disruptive Studio](http://disruptive.studio/), we tell stories, create experiences, make businesses grow. We believe in turning heads and rethinking the status quo. Our mission is to question the methods holding us all back, and make building a successful business easy again.
