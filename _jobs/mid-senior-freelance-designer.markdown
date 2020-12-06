@@ -6,7 +6,6 @@ position: 0
 jobtype: Freelance
 company_name: Disruptive Studio
 listing_url: https://orlandodesigners.info/jobs/mid-senior-freelance-designer
-location: Central Florida preferred, Remote
 layout: default
 ---
 
