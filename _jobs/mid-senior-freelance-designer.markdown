@@ -1,6 +1,7 @@
 ---
 title: Mid–Senior Freelance Designer
 date: 2020-12-06 11:52:00 -05:00
+permalink: "/jobs/mid-senior-freelance-designer"
 jobtype: Freelance
 company_name: Disruptive Studio
 location: Central Florida preferred, Remote
