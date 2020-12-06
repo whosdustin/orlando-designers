@@ -2,10 +2,12 @@
 title: Mid–Senior Freelance Designer
 date: 2020-12-06 11:52:00 -05:00
 permalink: "/jobs/mid-senior-freelance-designer"
+position: 0
 jobtype: Freelance
 company_name: Disruptive Studio
+listing_url: https://orlandodesigners.info/jobs/mid-senior-freelance-designer
 location: Central Florida preferred, Remote
-layout: events
+layout: page
 ---
 
 At [Disruptive Studio](http://disruptive.studio/), we tell stories, create experiences, make businesses grow. We believe in turning heads and rethinking the status quo. Our mission is to question the methods holding us all back, and make building a successful business easy again.
