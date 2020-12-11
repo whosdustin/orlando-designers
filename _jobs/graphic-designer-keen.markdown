@@ -1,5 +1,6 @@
 ---
 title: Graphic Designer
+published: false
 position: 3
 jobtype: Contract
 company_name: KEEN Growth Captial
