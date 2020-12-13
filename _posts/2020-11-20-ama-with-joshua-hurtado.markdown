@@ -30,7 +30,7 @@ Feature request for Figma - multiple comment threads lol
 > **Kyle Hyams**\
 > Any advice for new/up-and-coming designers looking for a role at an agency like PRPL?
 
-\*\*Josh \*\*\
+**Josh**\
 Create a portfolio with a few examples of work that you're proud of and can talk about for an extended period of time. I’d recommend documenting what you learned from that work, the challenges you faced and what you’re proud of about it.
 
 I’d also recommend a concise resume that is well designed, but not super flashy. Write well and pick a good type and you will stand out.
@@ -69,11 +69,11 @@ As a director, I’m proud of my team. I’ve had the opportunity to work direct
 **Josh**\
 I think finding my voice as a director has been the biggest challenge, because I’ve been very comfortable as an independent contributor for most of my career. There are a lot of conflicting ideals you have to balance as a director.
 
-\*Pushing people to do their best work while maintaining a safe-space that allows for failure. \*
+*Pushing people to do their best work while maintaining a safe-space that allows for failure. *
 
-\*Inspiring the team while being vulnerable and transparent. \*
+*Inspiring the team while being vulnerable and transparent. *
 
-\*Instituting processes while encouraging people to chart their own course. \*
+*Instituting processes while encouraging people to chart their own course. *
 
 I’ve found it incredibly rewarding to grow at this balance and to be a better advocate for my team. It’s important to me to earn trust and to actually be helpful, so I hope that is what my team is experiencing.
 
@@ -86,8 +86,8 @@ Yes, a very happy one! I think becoming a dad made me feel more “ready”. I r
 > **John Muller**\
 > What design process do you follow, and how do you keep the end users at the center of it?
 
-\*\*Josh\
-\*\*I'll answer in multiple parts. Process can change based on type of work, but generally at PRPL we follow a strategic and collaborative design process. We use tools that encourage transparency between our clients and internal teams (such as Figma). We take documentation seriously. We also ask questions and recognize that our assumptions are just assumptions.
+**Josh**\
+I'll answer in multiple parts. Process can change based on type of work, but generally at PRPL we follow a strategic and collaborative design process. We use tools that encourage transparency between our clients and internal teams (such as Figma). We take documentation seriously. We also ask questions and recognize that our assumptions are just assumptions.
 
 > **Giuseppe Sciumbata**\
 > Are there any strategies you use that help you stay focused when working remotely?
@@ -106,7 +106,7 @@ Planning and team communication is key. The earlier the better. I think if you s
 
 **Josh**\
 Nielsen/Norman Group, Typewolf, Figmalion, Under Consideration\
-I subscribe to all those ^
+I subscribe to all those 
 
 I have a few design books but they are mostly inspo books
 
@@ -221,7 +221,7 @@ Also his interview with David Letterman on Netflix is really insightful
 > **Tommy Hung**\
 > Also what makes a great comedian? Are there skills and knowledge from your comedy experience you pull from in your role as designer/director/leader?
 
-\*\*Josh \*\*\
+**Josh **\
 Hmmm. I think who people find funny is subjective but that's part of it. SOME people have to find you funny. I think honesty, vulnerability and storytelling are big parts of it.
 
 Improv made me less afraid to say what I think. So I'd say that's helped me quite a bit in design and leadership. To know that its ok to take risks based on your experience and that you can fail sometimes and still pull of what you're trying to pull off.
@@ -229,10 +229,10 @@ Improv made me less afraid to say what I think. So I'd say that's helped me quit
 > **Tommy Hung**\
 > Generally, what are some of the variables you think about when concepting jokes? Are there certain things to keep in mind to better engage your audience? Would you think differently about your jokes towards a small audience vs say, a Netflix special?
 
-**Joshua**\
+**Josh**\
 So generally the type of comedy I did (back when there wasn’t a pandemic) was all spontaneous so it didn’t involve any writing. I’ve actually never done standup lol but I’d like to try it one day, maybe like in an open mic.
 
-That being said there were some factors that might be applicable in both. A lot of my stuff was character driven. My goal would be to really embody a certain character and find the humor in how they would respond to certain situations. Since improv is kind of a “team sport”, it was also useful to listen really well to the other performers and be playful with their little “mistakes” here and there. Since it’s all so spontaneous, someone can say a little thing here and there that they didn’t mean to say but if you pick up on it there’s humor in that and you can either use it for a laugh or let it drive in a new direction. (
+That being said there were some factors that might be applicable in both. A lot of my stuff was character driven. My goal would be to really embody a certain character and find the humor in how they would respond to certain situations. Since improv is kind of a “team sport”, it was also useful to listen really well to the other performers and be playful with their little “mistakes” here and there. Since it’s all so spontaneous, someone can say a little thing here and there that they didn’t mean to say but if you pick up on it there’s humor in that and you can either use it for a laugh or let it drive in a new direction. 
 
 I’d say you can also definitely read the room. Usually after the first half of the show we would talk about how the audience is responding and tweak from there.
 
