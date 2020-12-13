@@ -1,7 +1,7 @@
 ---
 title: AMA with Joshua Hurtado
 date: 2020-11-20 16:57:00 -05:00
-image: "/uploads/Joshua-Hurtado-c23ddd.jpg"
+image: "/uploads/Joshua-Hurtado%20copy.jpg"
 author: Avery Smith
 layout: posts-2
 ---
