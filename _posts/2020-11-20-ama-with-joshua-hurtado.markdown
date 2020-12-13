@@ -71,11 +71,11 @@ As a director, I’m proud of my team. I’ve had the opportunity to work direct
 **Josh**\
 I think finding my voice as a director has been the biggest challenge, because I’ve been very comfortable as an independent contributor for most of my career. There are a lot of conflicting ideals you have to balance as a director.
 
-*Pushing people to do their best work while maintaining a safe-space that allows for failure. *
+\*Pushing people to do their best work while maintaining a safe-space that allows for failure. \*
 
-*Inspiring the team while being vulnerable and transparent. *
+\*Inspiring the team while being vulnerable and transparent. \*
 
-*Instituting processes while encouraging people to chart their own course. *
+\*Instituting processes while encouraging people to chart their own course. \*
 
 I’ve found it incredibly rewarding to grow at this balance and to be a better advocate for my team. It’s important to me to earn trust and to actually be helpful, so I hope that is what my team is experiencing.
 
@@ -108,7 +108,7 @@ Planning and team communication is key. The earlier the better. I think if you s
 
 **Josh**\
 Nielsen/Norman Group, Typewolf, Figmalion, Under Consideration\
-I subscribe to all those 
+I subscribe to all those
 
 I have a few design books but they are mostly inspo books
 
@@ -234,7 +234,7 @@ Improv made me less afraid to say what I think. So I'd say that's helped me quit
 **Josh**\
 So generally the type of comedy I did (back when there wasn’t a pandemic) was all spontaneous so it didn’t involve any writing. I’ve actually never done standup lol but I’d like to try it one day, maybe like in an open mic.
 
-That being said there were some factors that might be applicable in both. A lot of my stuff was character driven. My goal would be to really embody a certain character and find the humor in how they would respond to certain situations. Since improv is kind of a “team sport”, it was also useful to listen really well to the other performers and be playful with their little “mistakes” here and there. Since it’s all so spontaneous, someone can say a little thing here and there that they didn’t mean to say but if you pick up on it there’s humor in that and you can either use it for a laugh or let it drive in a new direction. 
+That being said there were some factors that might be applicable in both. A lot of my stuff was character driven. My goal would be to really embody a certain character and find the humor in how they would respond to certain situations. Since improv is kind of a “team sport”, it was also useful to listen really well to the other performers and be playful with their little “mistakes” here and there. Since it’s all so spontaneous, someone can say a little thing here and there that they didn’t mean to say but if you pick up on it there’s humor in that and you can either use it for a laugh or let it drive in a new direction.
 
 I’d say you can also definitely read the room. Usually after the first half of the show we would talk about how the audience is responding and tweak from there.
 
