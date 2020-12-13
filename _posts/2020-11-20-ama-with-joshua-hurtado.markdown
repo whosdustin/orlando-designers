@@ -21,6 +21,8 @@ You can find him on Slack **[@Josh ](https://orlandodesigners.slack.com/team/U01
 
 * [Instagram](https://www.instagram.com/jhurtat/?hl=en)
 
+\~
+
 > **Kyle Hyams**\
 > Has the pandemic changed the way you and your team(s) work together?
 
@@ -247,6 +249,8 @@ So generally the type of comedy I did (back when there wasn’t a pandemic) was 
 That being said there were some factors that might be applicable in both. A lot of my stuff was character driven. My goal would be to really embody a certain character and find the humor in how they would respond to certain situations. Since improv is kind of a “team sport”, it was also useful to listen really well to the other performers and be playful with their little “mistakes” here and there. Since it’s all so spontaneous, someone can say a little thing here and there that they didn’t mean to say but if you pick up on it there’s humor in that and you can either use it for a laugh or let it drive in a new direction.
 
 I’d say you can also definitely read the room. Usually after the first half of the show we would talk about how the audience is responding and tweak from there.
+
+\~
 
 **Kendall Uwaibi**\
 Ok, Orlando Designers Slack! This is the end of our first AMA Event with the one and only, Joshua Hurtado of Purple, Rock, Scissors. Feel free to check his work at:
