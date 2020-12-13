@@ -4,7 +4,7 @@ date: 2020-11-20 16:57:00 -05:00
 tags:
 - AMA
 Image: "/uploads/Joshua-Hurtado.jpg"
-author: 
+author: Avery Smith
 layout: posts-2
 ---
 
