@@ -1,0 +1,57 @@
+---
+layout: default
+---
+
+<div itemscope itemtype="http://schema.org/Article">
+	<section class="hero section--secondary">
+		<div class="header__wrapper">
+			<div class="hero__content--left">
+				<h1 class="with__lead" itemprop="name">
+					{% for category in page.categories %}
+						{% if category == 'spotlight' %}
+							{{ category | capitalize }}:
+						{% endif %}
+					{% endfor %}
+					{{page.title}}</h1>
+				<h4><time datetime="{{page.date}}" itemprop="dateCreated">{{ page.date | date: '%B %-d, %Y' }}</time></h4>
+			</div>
+			<div class="hero__media--right">
+				<img src="{{page.image}}" itemprop="image" alt="{{page.title}}" />
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<div class="post__wrapper">
+			{% comment %}
+			<h1 class="with__lead" itemprop="name">{{page.title}}</h1>
+			<h4><time datetime="{{page.date}}" itemprop="dateCreated">{{ page.date | date: '%B %-d, %Y' }}</time></h4>
+			{% endcomment %}
+			<article itemprop="articleBody">
+				{{content}}
+			</article>
+		</div>
+	</section>
+
+	<section class="section--primary">
+		<div class="main__wrapper">
+			{% for author in site.authors %}
+				{% if page.author == author.title %}
+				<div class="media" itemscope itemtype="http://schema.org/Person">
+					<div class="media__body">
+						<h2 class="with__lead">About the Author</h2>
+						<h4 itemprop="name author">{{ author.title }}</h4>
+						<p itemprop="description">
+							{{ author.content }}
+						</p>
+						<a href="{{ author.website }}" itemprop="url" class="button button--primary">Website &nbsp;&#10095;</a>
+					</div>
+					<div class="media__image media__image--circle">
+						<img itemprop="image" src="{{ author.image | prepend: site.baseurl }}" alt="{{ author.title }}" />
+					</div>
+				</div>
+				{% endif %}
+			{% endfor %}
+		</div>
+	</section>
+</div>

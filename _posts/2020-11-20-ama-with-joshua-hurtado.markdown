@@ -1,6 +1,9 @@
 ---
 title: AMA with Joshua Hurtado
 date: 2020-11-20 16:57:00 -05:00
+tags:
+- AMA
+layout: posts-2
 ---
 
 **Kendall Uwaibi**\
