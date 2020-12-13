@@ -9,9 +9,17 @@ layout: posts-2
 ---
 
 **Kendall Uwaibi**\
-AMA Session with Joshua Hurtado starts NOW! \
-Joshua is a creative director @ Purple, Rocks, Scissors\
-Fun fact - HIs favorite movie is Jurassic Park ( the classic, of course)
+AMA Session with Joshua Hurtado starts NOW! *Joshua is a Creative Director at Purple, Rocks, Scissors*. Fun fact - His favorite movie is Jurassic Park ( the classic, of course).
+
+You can find him on Slack **[@Josh](https://orlandodesigners.slack.com/team/U01F3T2HW7K)**
+
+* [Purple Rock Scissors](https://purplerockscissors.com/)
+
+* [Joshua Hurtado](joshuahurtado.com)
+
+* [LinkedIn](https://www.linkedin.com/in/joshuahurtado/)
+
+* [Instagram](https://www.instagram.com/jhurtat/?hl=en)
 
 > **Kyle Hyams**\
 > Has the pandemic changed the way you and your team(s) work together?
