@@ -71,11 +71,13 @@ As a director, I’m proud of my team. I’ve had the opportunity to work direct
 **Josh**\
 I think finding my voice as a director has been the biggest challenge, because I’ve been very comfortable as an independent contributor for most of my career. There are a lot of conflicting ideals you have to balance as a director.
 
-\*Pushing people to do their best work while maintaining a safe-space that allows for failure. \*
+* Pushing people to do their best work while maintaining a safe-space that allows for failure. 
 
-\*Inspiring the team while being vulnerable and transparent. \*
 
-\*Instituting processes while encouraging people to chart their own course. \*
+* Inspiring the team while being vulnerable and transparent.
+
+
+* Instituting processes while encouraging people to chart their own course. 
 
 I’ve found it incredibly rewarding to grow at this balance and to be a better advocate for my team. It’s important to me to earn trust and to actually be helpful, so I hope that is what my team is experiencing.
 
