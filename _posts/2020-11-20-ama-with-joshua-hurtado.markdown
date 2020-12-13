@@ -11,13 +11,13 @@ layout: posts-2
 **Kendall Uwaibi**\
 AMA Session with Joshua Hurtado starts NOW! \
 Joshua is a creative director @ Purple, Rocks, Scissors\
-Fun fact - HIs favorite movie is Jurassic Park ( the classic, of course) 
+Fun fact - HIs favorite movie is Jurassic Park ( the classic, of course)
 
 > **Kyle Hyams**\
 > Has the pandemic changed the way you and your team(s) work together?
 
 **Josh**\
-It’s been most noticeable during certain workshops in our process. We’d get people in the same room to work together and solve a specific problem, usually on a big whiteboard. I kind of miss that. Tools like Miro/Figma can get the job done, but don’t replicate the experience of being together. 
+It’s been most noticeable during certain workshops in our process. We’d get people in the same room to work together and solve a specific problem, usually on a big whiteboard. I kind of miss that. Tools like Miro/Figma can get the job done, but don’t replicate the experience of being together.
 
 When it comes to feedback and helping each other out, we’ve got a good combination of process and tools to help lower the impact of working remotely. We’ve continued a bi-weekly design team critique and I have one-on-ones with each team member as well. Our team has gotten used to pinging each other for a quick zoom when they need some “over the shoulder” problem solving or advice.
 
@@ -32,8 +32,8 @@ Feature request for Figma - multiple comment threads lol
 > **Kyle Hyams**\
 > Any advice for new/up-and-coming designers looking for a role at an agency like PRPL?
 
-**Josh **\
-Create a portfolio with a few examples of work that you're proud of and can talk about for an extended period of time. I’d recommend documenting what you learned from that work, the challenges you faced and what you’re proud of about it. 
+\*\*Josh \*\*\
+Create a portfolio with a few examples of work that you're proud of and can talk about for an extended period of time. I’d recommend documenting what you learned from that work, the challenges you faced and what you’re proud of about it.
 
 I’d also recommend a concise resume that is well designed, but not super flashy. Write well and pick a good type and you will stand out.
 
@@ -71,11 +71,11 @@ As a director, I’m proud of my team. I’ve had the opportunity to work direct
 **Josh**\
 I think finding my voice as a director has been the biggest challenge, because I’ve been very comfortable as an independent contributor for most of my career. There are a lot of conflicting ideals you have to balance as a director.
 
-*Pushing people to do their best work while maintaining a safe-space that allows for failure. *
+\*Pushing people to do their best work while maintaining a safe-space that allows for failure. \*
 
-*Inspiring the team while being vulnerable and transparent. *
+\*Inspiring the team while being vulnerable and transparent. \*
 
-*Instituting processes while encouraging people to chart their own course. *
+\*Instituting processes while encouraging people to chart their own course. \*
 
 I’ve found it incredibly rewarding to grow at this balance and to be a better advocate for my team. It’s important to me to earn trust and to actually be helpful, so I hope that is what my team is experiencing.
 
@@ -88,8 +88,8 @@ Yes, a very happy one! I think becoming a dad made me feel more “ready”. I r
 > **John Muller**\
 > What design process do you follow, and how do you keep the end users at the center of it?
 
-**Josh\
-**I'll answer in multiple parts. Process can change based on type of work, but generally at PRPL we follow a strategic and collaborative design process. We use tools that encourage transparency between our clients and internal teams (such as Figma). We take documentation seriously. We also ask questions and recognize that our assumptions are just assumptions.
+\*\*Josh\
+\*\*I'll answer in multiple parts. Process can change based on type of work, but generally at PRPL we follow a strategic and collaborative design process. We use tools that encourage transparency between our clients and internal teams (such as Figma). We take documentation seriously. We also ask questions and recognize that our assumptions are just assumptions.
 
 > **Giuseppe Sciumbata**\
 > Are there any strategies you use that help you stay focused when working remotely?
@@ -130,7 +130,7 @@ I keep my Instagram the most updated with illustration @jhurtat if anybody is in
 > Was creative direction always a goal for you? If so, what did you work on to  prepare yourself to take on that role?
 
 **Josh**\
-I don’t think so. I’ve always wanted to grow as much as I can in my career, but I haven’t always worked at agencies so I didn’t have a specific role in mind. I just want to do a really good job at what I do. 
+I don’t think so. I’ve always wanted to grow as much as I can in my career, but I haven’t always worked at agencies so I didn’t have a specific role in mind. I just want to do a really good job at what I do.
 
 At PRPL there were places where I really believed I could help make a difference in the company, so when given the opportunity I pitched that to leadership and worked for a period of time where I fulfilled my pitch.
 
@@ -223,7 +223,7 @@ Also his interview with David Letterman on Netflix is really insightful
 > **Tommy Hung**\
 > Also what makes a great comedian? Are there skills and knowledge from your comedy experience you pull from in your role as designer/director/leader?
 
-**Josh **\
+\*\*Josh \*\*\
 Hmmm. I think who people find funny is subjective but that's part of it. SOME people have to find you funny. I think honesty, vulnerability and storytelling are big parts of it.
 
 Improv made me less afraid to say what I think. So I'd say that's helped me quite a bit in design and leadership. To know that its ok to take risks based on your experience and that you can fail sometimes and still pull of what you're trying to pull off.
@@ -238,7 +238,7 @@ That being said there were some factors that might be applicable in both. A lot 
 
 I’d say you can also definitely read the room. Usually after the first half of the show we would talk about how the audience is responding and tweak from there.
 
-**Kendall Uwaibi **\
+**Kendall Uwaibi**\
 Ok, Orlando Designers Slack! This is the end of our first AMA Event with the one and only, Joshua Hurtado of Purple, Rock, Scissors. Feel free to check his work at:
 
 * [Purple Rock Scissors](https://purplerockscissors.com/)
