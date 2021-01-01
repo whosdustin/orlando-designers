@@ -1,9 +1,9 @@
 ---
 title: AMA with Parker Young
-date: 2021-01-01 14:01:00 -05:00
+date: 2021-12-11 14:01:00 -05:00
 categories:
 - Stories
-Image: 
+Image: "/uploads/Parker-Young.jpeg"
 layout: posts-2
 ---
 
