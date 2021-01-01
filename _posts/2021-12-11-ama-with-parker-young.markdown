@@ -94,7 +94,7 @@ Finally, the game trailer:\
 **[https://www.youtube.com/watch?v=9u2exqfp4HY](https://www.youtube.com/watch?v=9u2exqfp4HY)**
 
 You can play it in any version of Edge, just go to this url in the address bar:\
-*edge://surf*
+**[edge://surf](edge://surf)**
 
 > Kyle Harter (thanks for the questions, Kyle!) \
 > **What kind of challenges drive you to bring out your best work?**
@@ -115,8 +115,6 @@ Example feature announcement video:\
 **[https://www.youtube.com/watch?v=eAjzJNA6Bpo](https://www.youtube.com/watch?v=eAjzJNA6Bpo)**
 
 > Avery Smith\
-> **Thanks Parker!**\
-> **"For product announcement videos, the UX matches nearly identical to the experience we have today"**\
 > **For our team this one can be tough because a feature in development may be in production by the time the video production is complete. Aligning the schedule for both is an interesting balancing act.**
 
 That's always part of our conversation as well. We have a video shipping in a few weeks that had that same issue. It's definitely a balancing act!
