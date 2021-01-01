@@ -9,7 +9,7 @@ layout: posts-2
 ---
 
 **Victor Davila**\
-Welcome, **Parker Young**!  Thanks for being here today! Parker is a Senior Motion Designer @ [Microsoft](https://www.microsoft.com/en-us/?ql=1&spl=4). You have until 3pm to ask him anything!
+Welcome, **Parker Young**!  Thanks for being here today! Parker is a *Senior Motion Designer at  [Microsoft](https://www.microsoft.com/en-us/?ql=1&spl=4)*. You have until 3pm to ask him anything!
 
 **Parker Young**\
 You bet! Thanks Victor!
