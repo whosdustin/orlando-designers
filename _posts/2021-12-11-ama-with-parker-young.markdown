@@ -42,7 +42,7 @@ Of course, thanks for having me! Coffee in the morning is basically a legal requ
 I don't have the exact numbers but our core team in Seattle is about 40 designers (part of a larger design group of around 200) and then we have smaller teams in India, China, and Europe that make an additional 30-40 (i think)
 
 > Anna McCarty\
-> **What are some of your favorite resources for finding and figuring out expressions (btw, I love the ones available on your website, I'd love to hear of others)? **
+> **What are some of your favorite resources for finding and figuring out expressions (btw, I love the ones available on your website, I'd love to hear of others)?**
 
 Oh this is a good question! Something I am super passionate about 🙂
 
@@ -56,11 +56,11 @@ And finally there's the School of Motion course from Zack and Nol:\
 **[https://www.schoolofmotion.com/expression-session](https://www.schoolofmotion.com/expression-session)**
 
 > Kyle Harter\
-> **How do you know you’re successful when finishing a motion design project? **
+> **How do you know you’re successful when finishing a motion design project?**
 
 Tough question! Measuring success is tough to do in UX motion design. The end results will manifest in how someone feels during the experience and is largely intangible. You'll occasionally get direct feedback on motion in the product, but a lot of times feedback is associated with the element it's applied to. Comments like "I love how this menu feels!" could be talking about the design, the loading times, or the transitions in between.
 
-**Ultimately, motion that ships with the final software is a success. **The best motion tends to go unnoticed, so no feedback is good feedback 🙂And it's a huge success if other teams take notice and want to borrow it for their own applications.
+**Ultimately, motion that ships with the final software is a success.** The best motion tends to go unnoticed, so no feedback is good feedback 🙂And it's a huge success if other teams take notice and want to borrow it for their own applications.
 
 > Kyle Harter \
 > **How does one make a transition from a role as a motion design generalist into a UX motion designer? What skills are transferrable? What skills should one develop?**
@@ -96,7 +96,7 @@ Finally, the game trailer:\
 You can play it in any version of Edge, just go to this url in the address bar:\
 **[edge://surf](edge://surf)**
 
-> Kyle Harter (thanks for the questions, Kyle!) \
+> Kyle Harter  \
 > **What kind of challenges drive you to bring out your best work?**
 
 There's no greater pleasure than seeing your work in the wild for everyone to enjoy and interact with! Personally, I always use new projects to try a technique or approach I've been thinking about recently; changing up the workflow, trying a new camera technique, new storytelling methods, etc. While a lot of our motion work is R&D and destined for archives, it's always exciting to put motion directly into our software and create external marketing pieces for new features 🙂
