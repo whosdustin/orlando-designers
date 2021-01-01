@@ -2,7 +2,7 @@
 title: Tyler Fortune
 date: 2016-11-04 19:29:00 -04:00
 categories:
-- spotlight
+- Stories
 image: "/uploads/TklrC0MR.png"
 author: Dustin Delatore
 layout: posts-2
