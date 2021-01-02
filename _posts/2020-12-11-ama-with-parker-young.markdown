@@ -1,6 +1,6 @@
 ---
 title: AMA with Parker Young
-date: 2021-12-11 14:01:00 -05:00
+date: 2020-12-11 14:01:00 -05:00
 categories:
 - Stories
 image: "/uploads/Parker-Young.jpg"
@@ -9,7 +9,15 @@ layout: posts-2
 ---
 
 **Victor Davila**\
-Welcome, **Parker Young**!  Thanks for being here today! Parker is a *Senior Motion Designer at  [Microsoft](https://www.microsoft.com/en-us/?ql=1&spl=4)*. You have until 3pm to ask him anything!
+Welcome, **Parker Young**!  Thanks for being here today! Parker is a *Senior Motion Designer at  [Microsoft](https://www.microsoft.com/en-us/?ql=1&spl=4)*. Check him out at:
+
+* [Animoplex](https://www.animoplex.com/index.html)
+
+* [LinkedIn](https://www.linkedin.com/in/parkerwyoung/)
+
+* [Dribbble](https://dribbble.com/parkerwyoung)
+
+* [Twitter](https://twitter.com/animoplex)
 
 **Parker Young**\
 You bet! Thanks Victor!
@@ -143,4 +151,12 @@ Personally, I am looking forward to the start of a new year and (maybe in a few 
 Thanks so much for having me! Thank you @Victor Davila for facilitating the discussion. If anyone has follow up questions or missed the AMA window, please send me a DM and I will happily answer :slightly_smiling_face: I will be off the grid December 13-16th but will answer after that. Enjoy the weekend everyone!
 
 **Victor Davila**\
-Thank you so much, @Parker Young! We appreciate you taking the time out of your day to talk to us! And thanks to everyone who asked questions!!
+Thank you so much, @Parker Young! We appreciate you taking the time out of your day to talk to us! And thanks to everyone who asked questions!! Check out Parker Young at:
+
+* [Animoplex](https://www.animoplex.com/index.html)
+
+* [LinkedIn](https://www.linkedin.com/in/parkerwyoung/)
+
+* [Dribbble](https://dribbble.com/parkerwyoung)
+
+* [Twitter](https://twitter.com/animoplex)
