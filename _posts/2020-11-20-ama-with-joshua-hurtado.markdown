@@ -8,20 +8,14 @@ author: Kendall Uwaibi
 layout: posts-2
 ---
 
-**Kendall Uwaibi**\
-AMA Session with Joshua Hurtado starts NOW! Joshua is a Creative Director at Purple, Rocks, Scissors. Fun fact - His favorite movie is Jurassic Park ( the classic, of course).
+Joshua is a Creative Director at Purple, Rocks, Scissors. Fun fact - His favorite movie is Jurassic Park ( the classic, of course). You can find him on Slack **[@Josh ](https://orlandodesigners.slack.com/team/U01F3T2HW7K)** or find him at:
 
-You can find him on Slack **[@Josh ](https://orlandodesigners.slack.com/team/U01F3T2HW7K)** or find him at:
+[Purple Rock Scissors](https://purplerockscissors.com/)\
+[Joshua Hurtado](joshuahurtado.com)\
+[LinkedIn](https://www.linkedin.com/in/joshuahurtado/)\
+[Instagram](https://www.instagram.com/jhurtat/?hl=en)
 
-* [Purple Rock Scissors](https://purplerockscissors.com/)
-
-* [Joshua Hurtado](joshuahurtado.com)
-
-* [LinkedIn](https://www.linkedin.com/in/joshuahurtado/)
-
-* [Instagram](https://www.instagram.com/jhurtat/?hl=en)
-
-\~
+···
 
 > Kyle Hyams\
 > **Has the pandemic changed the way you and your team(s) work together?**
@@ -228,15 +222,12 @@ That being said there were some factors that might be applicable in both. A lot 
 
 I’d say you can also definitely read the room. Usually after the first half of the show we would talk about how the audience is responding and tweak from there.
 
-\~
+···
 
-**Kendall Uwaibi**\
-Ok, Orlando Designers Slack! This is the end of our first AMA Event with the one and only, Joshua Hurtado of Purple, Rock, Scissors. Feel free to check his work at:
+\
+This is the end of our first AMA Event with the one and only, **Joshua Hurtado** of Purple, Rock, Scissors. Feel free to check his work at:
 
-* [Purple Rock Scissors](https://purplerockscissors.com/)
-
-* [Joshua Hurtado](joshuahurtado.com)
-
-* [LinkedIn](https://www.linkedin.com/in/joshuahurtado/)
-
-* [Instagram](https://www.instagram.com/jhurtat/?hl=en)
+[Purple Rock Scissors](https://purplerockscissors.com/)\
+[Joshua Hurtado](joshuahurtado.com)\
+[LinkedIn](https://www.linkedin.com/in/joshuahurtado/)\
+[Instagram](https://www.instagram.com/jhurtat/?hl=en)
