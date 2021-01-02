@@ -15,7 +15,7 @@ Joshua is a Creative Director at Purple, Rocks, Scissors. Fun fact - His favorit
 [LinkedIn](https://www.linkedin.com/in/joshuahurtado/)\
 [Instagram](https://www.instagram.com/jhurtat/?hl=en)
 
-\~
+···
 
 > Kyle Hyams\
 > **Has the pandemic changed the way you and your team(s) work together?**
@@ -222,7 +222,7 @@ That being said there were some factors that might be applicable in both. A lot 
 
 I’d say you can also definitely read the room. Usually after the first half of the show we would talk about how the audience is responding and tweak from there.
 
-\~
+···
 
 \
 This is the end of our first AMA Event with the one and only, **Joshua Hurtado** of Purple, Rock, Scissors. Feel free to check his work at:
