@@ -1,6 +1,8 @@
 ---
 title: Avery Smith
 date: 2020-12-12 19:49:00 -05:00
+categories:
+- authors
 image: "/uploads/129761436_10118932920547271_444435243124183440_n.jpg"
 website: https://asmith3.com
 ---
