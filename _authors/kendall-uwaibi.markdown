@@ -3,7 +3,7 @@ title: Kendall Uwaibi
 date: 2021-01-02 11:24:00 -05:00
 categories:
 - authors
-image: 
+image: "/uploads/kendall.jpg"
 website: https://www.uwaibi.design
 ---
 
