@@ -20,7 +20,7 @@ Joshua is a Creative Director at Purple, Rocks, Scissors. Fun fact - His favorit
 > **Has the pandemic changed the way you and your team(s) work together?**\
 > Kyle Hyams
 
-**Josh:** It’s been most noticeable during certain workshops in our process. We’d get people in the same room to work together and solve a specific problem, usually on a big whiteboard. I kind of miss that. Tools like Miro/Figma can get the job done, but don’t replicate the experience of being together.
+**Joshua Hurtado:** It’s been most noticeable during certain workshops in our process. We’d get people in the same room to work together and solve a specific problem, usually on a big whiteboard. I kind of miss that. Tools like Miro/Figma can get the job done, but don’t replicate the experience of being together.
 
 When it comes to feedback and helping each other out, we’ve got a good combination of process and tools to help lower the impact of working remotely. We’ve continued a bi-weekly design team critique and I have one-on-ones with each team member as well. Our team has gotten used to pinging each other for a quick zoom when they need some “over the shoulder” problem solving or advice.
 
