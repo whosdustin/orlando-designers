@@ -18,6 +18,9 @@ collections:
   meetups:
     title: Meetups
     output: true
+  stories:
+    title: Posts
+    output: true
   posts:
     title: Posts
     output: true
