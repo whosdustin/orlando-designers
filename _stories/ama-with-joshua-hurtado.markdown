@@ -24,7 +24,7 @@ layout: posts-2
 
 When it comes to feedback and helping each other out, we’ve got a good combination of process and tools to help lower the impact of working remotely. We’ve continued a bi-weekly design team critique and I have one-on-ones with each team member as well. Our team has gotten used to pinging each other for a quick zoom when they need some “over the shoulder” problem solving or advice.
 
-> **Can you talk about collaboration between PRPL’s designers and developers? What  does that look like?**\
+> **Can you talk about collaboration between PRPL’s designers and developers? What does that look like?**\
 > Kyle Hyams
 
 Ha! For sure. We've been refining process on our end to document FRD's earlier so devs can start building basic structure. We then try and annotate design for more front-end and interaction level directions as we go. I've been trying to do it directly in Figma with comments, although it can get dicey when there is client comments and annotations in the same thread.
