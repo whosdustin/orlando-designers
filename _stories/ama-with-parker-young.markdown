@@ -13,16 +13,6 @@ intro: Parker is a Senior Motion Designer at  Microsoft. He work primarily in Us
 layout: posts-2
 ---
 
-Parker is a *Senior Motion Designer at  [Microsoft](https://www.microsoft.com/en-us/?ql=1&spl=4)*. He work primarily in User Experience, Motion Design, and 3D Animation. You can find more of his work at:
-
-* [Animoplex](https://www.animoplex.com/index.html)
-
-* [LinkedIn](https://www.linkedin.com/in/parkerwyoung/)
-
-* [Dribbble](https://dribbble.com/parkerwyoung)
-
-* [Twitter](https://twitter.com/animoplex)
-
 \~
 
 > **Can you tell us a little about your background and how you got to where you are?**\
