@@ -1,7 +1,6 @@
 ---
 title: AMA with Joshua Hurtado
 date: 2020-11-20 14:50:00 -05:00
-published: false
 categories:
 - Stories
 image: "/uploads/Joshua-Hurtado%20copy.jpg"
