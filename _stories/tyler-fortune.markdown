@@ -4,6 +4,7 @@ date: 2016-11-04 19:29:00 -04:00
 published: false
 categories:
 - Stories
+position: 0
 image: "/uploads/TklrC0MR.png"
 author: Dustin Delatore
 layout: posts-2
