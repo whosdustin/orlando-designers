@@ -4,7 +4,7 @@ date: 2020-12-11 15:54:00 -05:00
 categories:
 - Posts
 image: "/uploads/Parker-Young.jpg"
-author: Avery Smith
+author: Victor Davila
 intro: Parker is a Senior Motion Designer at  Microsoft. He work primarily in User
   Experience, Motion Design, and 3D Animation. You can find more of his work at <a
   href="https://www.animoplex.com/index.html">Animoplex</a>, <a href="https://www.linkedin.com/in/parkerwyoung/">LinkedIn</a>,
