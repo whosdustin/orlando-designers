@@ -26,7 +26,7 @@ layout: posts-2
 
 Sadly we do not have a tree this year! Part of that is due to our 1 year old puppy who's notorious for unplugging Christmas tree lights 🤣But you can 👀a pic of him instead!
 
-![](https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fscontent.cdninstagram.com%2Fv%2Ft51.2885-15%2Fe35%2Fs480x480%2F120448844_812246059575297_6176492844449122908_n.jpg%3F_nc_ht%3Dscontent.cdninstagram.com%26_nc_cat%3D109%26_nc_ohc%3DGNu-i6twTO0AX-rd6lP%26tp%3D1%26oh%3Dea0147133bded64e4dc07f7c4fe5d692%26oe%3D5FFE0C43)
+![120448844_812246059575297_6176492844449122908_n.jpeg](/uploads/120448844_812246059575297_6176492844449122908_n.jpeg)
 
 > **Thanks for doing this. I would love to learn more about\
 > What does a typical day in your life look like ? What are the most fun/ exciting aspects of your role ?**\
