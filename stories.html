@@ -14,7 +14,7 @@ layout: page
 
 		<div class="l__row">
 			<ul class="menu">
-				{% for post in site.posts %}
+				{% for post in site.stories %}
 					{% unless post.published == false %}
 						{% capture post_count %}{% increment x %}{% endcapture %}
 						<li class="menu__item" itemscope itemtype="http://schema.org/JobPosting">
