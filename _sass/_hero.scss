@@ -40,10 +40,11 @@
 }
 
 .hero__media--right {
-	position: absolute;
+	// position: absolute;
 	width: 50%;
 	right: 0;
 	bottom: -40px;
+	// top: -2em;
 	@media (min-width: 768px) {
 		bottom: -100px;
 	}
