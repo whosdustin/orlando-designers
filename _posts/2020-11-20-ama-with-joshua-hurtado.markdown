@@ -2,7 +2,7 @@
 title: AMA with Joshua Hurtado
 date: 2020-11-20 14:50:00 -05:00
 categories:
-- Stories
+- Posts
 image: "/uploads/Joshua-Hurtado%20copy.jpg"
 author: Kendall Uwaibi
 layout: posts
