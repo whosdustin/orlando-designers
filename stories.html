@@ -1,0 +1,39 @@
+---
+title: Posts
+layout: page
+---
+
+<section>
+	<div class="main__wrapper">
+		<h2>Stories from the Orlando Designers</h2>
+		<div class="l__half">
+			<p>
+				Stories and interviews from professionals in and around the Orlando Design community.
+			</p>
+		</div>
+
+		<div class="l__row">
+			<ul class="menu">
+				{% for post in site.posts %}
+					{% unless post.published == false %}
+						{% capture post_count %}{% increment x %}{% endcapture %}
+						<li class="menu__item" itemscope itemtype="http://schema.org/JobPosting">
+						<meta itemprop="datePosted" content="{{ post.date }}">
+							<h3 class="with__lead"><a href="{{post.url}}">{{post.title}}</a></h3>
+							<span>{{ post.date | date: "%B %-d, %Y" }}</span>
+						</li>
+					{% endunless %}
+				{% endfor %}
+			</ul>
+		</div>
+
+			{% if post_count == nil %}
+			<div>
+				<h3 class="with__lead">No posts Available</h3>
+				<p>
+					If you're hiring please <a href="{{site.baseurl}}/post-a-post/">fill out our form</a>.
+				</p>
+			</div>
+			{% endif %}
+	</div>
+</section>
