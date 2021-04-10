@@ -8,7 +8,7 @@ author: Avery Smith
 layout: posts-2
 ---
 
-Parker is a *Senior Motion Designer at  [Microsoft](https://www.microsoft.com/en-us/?ql=1&spl=4)*. He work primarily in User Experience, Motion Design, and 3D Animation. You can find more of his work at:
+Parker is a *Senior Motion Designer at  [Microsoft](https://www.microsoft.com/en-us/?ql=1&spl=4)*. He work primarily in User Experience, Motion Design, and 3D Animation. You can find more of his work at 👇
 
 * [Animoplex](https://www.animoplex.com/index.html)
 
@@ -23,7 +23,7 @@ Parker is a *Senior Motion Designer at  [Microsoft](https://www.microsoft.com/en
 > **Can you tell us a little about your background and how you got to where you are?**\
 > Victor Davila
 
-**Parker Young: **Sure! As a kid, I had a huge passion for making things. LEGO creations, paper crafting, cardboard forts, you name it. When I got my hands on a VHS camcorder, I realized I could make anything! That realization started me on a long journey of video production, editing, graphics, and visual storytelling in general. I attended Full Sail University between 2009 and 2011 (Digital Arts & Design) and freelanced for 7 years in the Orlando area. This included lots of live event production with the theme parks and conventions. Working with live events and real time playback was awesome, I learned valuable workflow skills there. In 2016 my partner and I needed a change of scenery, so we moved to Seattle, WA 🚗 📦And shortly after that, I was hired at Microsoft to work in UX Motion, which was a new world for me. Our team works on a lot of the front-end experiences at Microsoft which requires a lot of knowledge about the web 🙂Fast forward to now, I'm still here (but still miss Orlando) and learning every day!
+\*\*Parker Young: \*\*Sure! As a kid, I had a huge passion for making things. LEGO creations, paper crafting, cardboard forts, you name it. When I got my hands on a VHS camcorder, I realized I could make anything! That realization started me on a long journey of video production, editing, graphics, and visual storytelling in general. I attended Full Sail University between 2009 and 2011 (Digital Arts & Design) and freelanced for 7 years in the Orlando area. This included lots of live event production with the theme parks and conventions. Working with live events and real time playback was awesome, I learned valuable workflow skills there. In 2016 my partner and I needed a change of scenery, so we moved to Seattle, WA 🚗 📦And shortly after that, I was hired at Microsoft to work in UX Motion, which was a new world for me. Our team works on a lot of the front-end experiences at Microsoft which requires a lot of knowledge about the web 🙂Fast forward to now, I'm still here (but still miss Orlando) and learning every day!
 
 \(that's the super short version) haha
 
@@ -67,7 +67,7 @@ Tough question! Measuring success is tough to do in UX motion design. The end re
 **Ultimately, motion that ships with the final software is a success.** The best motion tends to go unnoticed, so no feedback is good feedback 🙂And it's a huge success if other teams take notice and want to borrow it for their own applications.
 
 > **How does one make a transition from a role as a motion design generalist into a UX motion designer? What skills are transferrable? What skills should one develop?**\
-> Kyle Harter 
+> Kyle Harter
 
 These are questions from my own journey as well! The transition from general motion design to UX motion design is mostly about finding new applications for your existing animation knowledge. You don't stop really being a generalist, you just spend more time in the design process. And it's important to understand that the purpose of your motion has changed; instead of marketing products or captivating people's attention, you're really just trying to help people successfully complete a task and then get out of their way. In my opinion it's less glamorous but much more rewarding.
 
@@ -143,9 +143,9 @@ Personally, I am looking forward to the start of a new year and (maybe in a few 
 
 \~
 
-**Parker Young: **Thanks so much for having me! Thank you @Victor Davila for facilitating the discussion. If anyone has follow up questions or missed the AMA window, please send me a DM and I will happily answer :slightly_smiling_face: I will be off the grid December 13-16th but will answer after that. Enjoy the weekend everyone!
+\*\*Parker Young: \*\*Thanks so much for having me! Thank you @Victor Davila for facilitating the discussion. If anyone has follow up questions or missed the AMA window, please send me a DM and I will happily answer :slightly_smiling_face: I will be off the grid December 13-16th but will answer after that. Enjoy the weekend everyone!
 
-**Victor Davila: **Thank you so much, @Parker Young! We appreciate you taking the time out of your day to talk to us! And thanks to everyone who asked questions!! Check out Parker Young at:
+\*\*Victor Davila: \*\*Thank you so much, @Parker Young! We appreciate you taking the time out of your day to talk to us! And thanks to everyone who asked questions!! Check out Parker Young at:
 
 * [Animoplex](https://www.animoplex.com/index.html)
 
