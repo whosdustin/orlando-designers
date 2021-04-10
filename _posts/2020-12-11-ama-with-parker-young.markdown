@@ -8,7 +8,7 @@ author: Avery Smith
 layout: posts-2
 ---
 
-**Victor Davila: **Welcome, Parker Young!  Parker is a *Senior Motion Designer at  [Microsoft](https://www.microsoft.com/en-us/?ql=1&spl=4)*. Check him out at:
+Parker is a *Senior Motion Designer at  [Microsoft](https://www.microsoft.com/en-us/?ql=1&spl=4)*. He work primarily in User Experience, Motion Design, and 3D Animation. You can find more of his work at:
 
 * [Animoplex](https://www.animoplex.com/index.html)
 
