@@ -21,7 +21,7 @@ collections:
   posts:
     title: Posts
     output: true
-  stories:
+  testing:
     title: Stories
     output: false
   uploads:
