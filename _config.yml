@@ -21,9 +21,6 @@ collections:
   stories:
     title: Posts
     output: true
-  delete:
-    title: Posts
-    output: true
   posts:
     title: Posts
     output: true
