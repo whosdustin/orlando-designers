@@ -12,7 +12,7 @@ intro: Parker is a Senior Motion Designer at  Microsoft. He work primarily in Us
 layout: posts-2
 ---
 
-\~
+···
 
 > **Can you tell us a little about your background and how you got to where you are?**\
 > Victor Davila
@@ -135,7 +135,7 @@ Work-wise, I've been working a lot on accessibility in motion and building more 
 
 Personally, I am looking forward to the start of a new year and (maybe in a few months) some Covid-19 vaccines. My heart goes out to all who are affected by this, I hope everyone stays safe over the holidays. I just picked up Cyberpunk 2077 on Xbox and will be playing that over the holidays. And I've got some hikes planned in the next few weeks, and plenty of time off work to recharge fresh for 2021.
 
-\~
+···
 
 \*\*Parker Young: \*\*Thanks so much for having me! Thank you @Victor Davila for facilitating the discussion. If anyone has follow up questions or missed the AMA window, please send me a DM and I will happily answer :slightly_smiling_face: I will be off the grid December 13-16th but will answer after that. Enjoy the weekend everyone!
 

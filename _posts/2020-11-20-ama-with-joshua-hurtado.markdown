@@ -5,15 +5,13 @@ categories:
 - Posts
 image: "/uploads/Joshua-Hurtado%20copy.jpg"
 author: Kendall Uwaibi
+intro: Joshua is a Creative Director at <a href="https://purplerockscissors.com/">Purple
+  Rock Scissors</a>. Fun fact - His favorite movie is Jurassic Park (the classic,
+  of course). You can find him on Slack  <a href="https://orlandodesigners.slack.com/team/U01F3T2HW7K">@Josh</a>
+  or find him at  <a href="http://joshuahurtado.com">Joshua Hurtado</a>, <a href="https://www.linkedin.com/in/joshuahurtado">LinkedIn</a>,
+  and <a href="https://www.instagram.com/jhurtat/?hl=en">Instagram</a>.
 layout: posts
 ---
-
-Joshua is a Creative Director at Purple, Rocks, Scissors. Fun fact - His favorite movie is Jurassic Park ( the classic, of course). You can find him on Slack **[@Josh ](https://orlandodesigners.slack.com/team/U01F3T2HW7K)** or find him at:
-
-[Purple Rock Scissors](https://purplerockscissors.com/)\
-[Joshua Hurtado](http://joshuahurtado.com)\
-[LinkedIn](https://www.linkedin.com/in/joshuahurtado/)\
-[Instagram](https://www.instagram.com/jhurtat/?hl=en)
 
 ···
 
