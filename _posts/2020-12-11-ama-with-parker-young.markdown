@@ -2,7 +2,7 @@
 title: AMA with Parker Young
 date: 2020-12-11 15:54:00 -05:00
 categories:
-- Stories
+- Posts
 image: "/uploads/Parker-Young.jpg"
 author: Avery Smith
 intro: Parker is a Senior Motion Designer at  Microsoft. He work primarily in User
