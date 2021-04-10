@@ -3,7 +3,7 @@ title: AMA with Parker Young
 date: 2020-12-11 14:01:00 -05:00
 categories:
 - Stories
-position: 1
+position: 2
 image: "/uploads/Parker-Young.jpg"
 author: Avery Smith
 layout: posts-2
