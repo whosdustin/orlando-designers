@@ -5,19 +5,12 @@ categories:
 - Posts
 image: "/uploads/Parker-Young.jpg"
 author: Avery Smith
-intro: 
+intro: Parker is a Senior Motion Designer at  Microsoft. He work primarily in User
+  Experience, Motion Design, and 3D Animation. You can find more of his work at <a
+  href="https://www.animoplex.com/index.html">Animoplex</a>, <a href="https://www.linkedin.com/in/parkerwyoung/">LinkedIn</a>,
+  <a href="https://dribbble.com/parkerwyoung">Dribbble</a>, and <a href="https://twitter.com/animoplex">Twitter</a>.
 layout: posts-2
 ---
-
-Parker is a *Senior Motion Designer at  [Microsoft](https://www.microsoft.com/en-us/?ql=1&spl=4)*. He work primarily in User Experience, Motion Design, and 3D Animation. You can find more of his work at 👇
-
-* [Animoplex](https://www.animoplex.com/index.html)
-
-* [LinkedIn](https://www.linkedin.com/in/parkerwyoung/)
-
-* [Dribbble](https://dribbble.com/parkerwyoung)
-
-* [Twitter](https://twitter.com/animoplex)
 
 \~
 
