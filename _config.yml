@@ -19,7 +19,7 @@ collections:
     title: Meetups
     output: true
   stories:
-    title: Post
+    title: Posts
     output: true
   posts:
     title: Posts
