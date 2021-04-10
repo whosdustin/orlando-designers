@@ -18,12 +18,12 @@ collections:
   meetups:
     title: Meetups
     output: true
-  stories:
-    title: Posts
-    output: true
   posts:
     title: Posts
     output: true
+  stories:
+    title: Stories
+    output: false
   uploads:
     title: Uploads
     output: true

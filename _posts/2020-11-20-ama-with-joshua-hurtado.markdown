@@ -1,12 +1,9 @@
 ---
 title: AMA with Joshua Hurtado
-date: 2020-11-20 16:57:00 -05:00
+date: 2020-11-20 14:50:00 -05:00
 categories:
 - Stories
 - Posts
-image: "/uploads/Joshua-Hurtado%20copy.jpg"
-author: Kendall Uwaibi
-layout: posts-2
 ---
 
 Joshua is a Creative Director at Purple, Rocks, Scissors. Fun fact - His favorite movie is Jurassic Park ( the classic, of course). You can find him on Slack **[@Josh ](https://orlandodesigners.slack.com/team/U01F3T2HW7K)** or find him at:
