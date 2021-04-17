@@ -1,9 +1,8 @@
 ---
 title: Front-End Developer
-published: false
-listing_url: https://laughingsamurai.com/jobs-form/
-company_name: Laughing Samurai
 jobtype: Full Time
+company_name: Laughing Samurai
+listing_url: https://laughingsamurai.com/jobs-form/
 location: Winter Park, FL
 ---
 
