@@ -23,7 +23,7 @@ layout: page
 							<meta itemprop="datePosted" content="{{ job.date }}">
 							<meta itemprop="jobLocation" content="{{ job.location }}">
 							<h3 class="with__lead"><a href="{{job.listing_url}}">{{job.title}}</a> @ {{ job.company_name }}</h3>
-							<span>{{ job.location }} • {{job.jobtype}}</span>
+							<span>{{ job.date | date: "%B %-d, %Y" }} • <!-- {{ job.location }} • --> {{job.jobtype}} </span>
 						</li>
 					{% endunless %}
 				{% endfor %}
