@@ -1,6 +1,6 @@
 ---
 title: Mid–Senior Freelance Designer
-date: 2020-12-06 11:52:00 -05:00
+date: 2021-03-06 11:52:00 -05:00
 permalink: "/jobs/mid-senior-freelance-designer"
 position: 0
 jobtype: Freelance
